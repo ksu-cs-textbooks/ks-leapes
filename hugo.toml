@@ -1,6 +1,6 @@
 # Base URL where the site will be hosted
 # TODO changeme
-baseURL = "https://textbooks.cs.ksu.edu/hugo-starter"
+baseURL = "https://textbooks.cs.ksu.edu/ks-leapes"
 # Default language for the site
 languageCode = "en-us"
 # Site Title
