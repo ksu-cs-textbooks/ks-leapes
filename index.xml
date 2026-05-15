@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Starter :: Hugo Starter Template</title>
-    <link>https://textbooks.cs.ksu.edu/hugo-starter/index.html</link>
+    <link>https://textbooks.cs.ksu.edu/ks-leapes/index.html</link>
     <description>Lorem Ipsum.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://textbooks.cs.ksu.edu/hugo-starter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://textbooks.cs.ksu.edu/hugo-starter/01-introduction/index.html</link>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://textbooks.cs.ksu.edu/hugo-starter/01-introduction/index.html</guid>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.html</guid>
       <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Computer Science</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/index.html</guid>
+      <description>In this week we will be focusing on Computer Science and will be using the Scratch framework.</description>
     </item>
   </channel>
 </rss>

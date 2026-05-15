@@ -6,28 +6,39 @@
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="generator" content="Hugo 0.148.1">
     <meta name="generator" content="Relearn 8.0.0">
-    <meta name="description" content="Lorem Ipsum.">
+    <meta name="description" content="Activity 1 - Introduction to State Machines Starter Project
+Tutorial YouTube Video Activity 2: Elevator State Machines Starter Project
+Tutorial 1 YouTube Video Tutorial 2 YouTube Video Tutorial 3 YouTube Video Activity 3: Drone State Machine Starter Project YouTube Video">
     <meta name="author" content="Russell Feldhausen">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <meta name="twitter:title" content="Hugo Starter :: Hugo Starter Template">
-    <meta name="twitter:description" content="Lorem Ipsum.">
-    <meta property="og:url" content="https://textbooks.cs.ksu.edu/ks-leapes/index.html">
+    <meta name="twitter:title" content="Day 2 :: Hugo Starter Template">
+    <meta name="twitter:description" content="Activity 1 - Introduction to State Machines Starter Project
+Tutorial YouTube Video Activity 2: Elevator State Machines Starter Project
+Tutorial 1 YouTube Video Tutorial 2 YouTube Video Tutorial 3 YouTube Video Activity 3: Drone State Machine Starter Project YouTube Video">
+    <meta property="og:url" content="https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/02-day-2/index.html">
     <meta property="og:site_name" content="Hugo Starter Template">
-    <meta property="og:title" content="Hugo Starter :: Hugo Starter Template">
-    <meta property="og:description" content="Lorem Ipsum.">
+    <meta property="og:title" content="Day 2 :: Hugo Starter Template">
+    <meta property="og:description" content="Activity 1 - Introduction to State Machines Starter Project
+Tutorial YouTube Video Activity 2: Elevator State Machines Starter Project
+Tutorial 1 YouTube Video Tutorial 2 YouTube Video Tutorial 3 YouTube Video Activity 3: Drone State Machine Starter Project YouTube Video">
     <meta property="og:locale" content="en_us">
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Computer Science">
+    <meta property="article:modified_time" content="2026-05-15T20:54:34+00:00">
     <meta property="og:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <meta itemprop="name" content="Hugo Starter :: Hugo Starter Template">
-    <meta itemprop="description" content="Lorem Ipsum.">
-    <meta itemprop="dateModified" content="2026-05-13T13:44:01-05:00">
-    <meta itemprop="wordCount" content="2">
+    <meta itemprop="name" content="Day 2 :: Hugo Starter Template">
+    <meta itemprop="description" content="Activity 1 - Introduction to State Machines Starter Project
+Tutorial YouTube Video Activity 2: Elevator State Machines Starter Project
+Tutorial 1 YouTube Video Tutorial 2 YouTube Video Tutorial 3 YouTube Video Activity 3: Drone State Machine Starter Project YouTube Video">
+    <meta itemprop="dateModified" content="2026-05-15T20:54:34+00:00">
+    <meta itemprop="wordCount" content="40">
     <meta itemprop="image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <title>Hugo Starter :: Hugo Starter Template</title>
-    <link href="https://textbooks.cs.ksu.edu/ks-leapes/index.html" rel="canonical" type="text/html" title="Hugo Starter :: Hugo Starter Template">
-    <link href="/ks-leapes/index.xml" rel="alternate" type="application/rss+xml" title="Hugo Starter :: Hugo Starter Template">
-    <link href="/ks-leapes/index.lti.js" rel="alternate" type="text/javascript" title="Hugo Starter :: Hugo Starter Template">
+    <title>Day 2 :: Hugo Starter Template</title>
+    <link href="https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/02-day-2/index.html" rel="canonical" type="text/html" title="Day 2 :: Hugo Starter Template">
+    <link href="/ks-leapes/01-computer-science/02-day-2/index.xml" rel="alternate" type="application/rss+xml" title="Day 2 :: Hugo Starter Template">
+    <link href="/ks-leapes/01-computer-science/02-day-2/tele.html" rel="alternate" type="text/html" title="Day 2 :: Hugo Starter Template">
+    <link href="/ks-leapes/01-computer-science/02-day-2/embed.html" rel="alternate" type="text/html" title="Day 2 :: Hugo Starter Template">
     <link href="/ks-leapes/css/auto-complete/auto-complete.min.css?1778878509" rel="stylesheet">
     <script src="/ks-leapes/js/auto-complete/auto-complete.min.js?1778878509" defer></script>
     <script src="/ks-leapes/js/search-lunr.min.js?1778878509" defer></script>
@@ -52,9 +63,9 @@
       window.relearn = window.relearn || {};
       // configuration
       window.relearn.min = `.min`;
-      window.relearn.path='\/index.html';
-      window.relearn.relBasePath='.';
-      window.relearn.relBaseUri='..';
+      window.relearn.path='\/01-computer-science\/02-day-2\/index.html';
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
       window.relearn.absBaseUri='https:\/\/textbooks.cs.ksu.edu\/ks-leapes';
       window.relearn.disableAnchorCopy=false;
       window.relearn.disableAnchorScrolling=false;
@@ -74,10 +85,10 @@
       window.T_No_results_found = `No results found for "{0}"`;
       window.T_N_results_found = `{1} results found for "{0}"`;
       // variant stuff
-      window.relearn.themevariants = [ 'auto', 'light-theme', 'dark-theme' ];
+      window.relearn.themevariants = [ 'light-theme' ];
       window.relearn.customvariantname = "my-custom-variant";
       // [x] russfeld
-      window.relearn.writeVariant=true;
+      window.relearn.writeVariant=false;
       window.relearn.changeVariant = function(variant) {
         var oldVariant = document.documentElement.dataset.rThemeVariant;
         window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
@@ -108,7 +119,7 @@
     </script>
     <link href="/ks-leapes/css/custom.css?1778878509" rel="stylesheet">
   </head>
-  <body class="mobile-support print" data-url="/ks-leapes/index.html">
+  <body class="mobile-support print" data-url="/ks-leapes/01-computer-science/02-day-2/index.html">
     
     <div id="tele" class="tele mirror">
     
@@ -118,88 +129,8 @@
       
       
       <div id="R-main-overlay"></div>
-      <main id="R-body-inner" class="highlightable page" tabindex="-1">
+      <main id="R-body-inner" class="highlightable 01-computer-science" tabindex="-1">
         <div class="flex-block-wrapper">
-<article class="default">
-  <header class="headline">
-  </header>
-
-<h1 id="hugo-starter">Hugo Starter</h1>
-
-<p>Lorem Ipsum.</p>
-
-  <footer class="footline">
-  </footer>
-</article>
-          <section>
-            <h1 class="a11y-only">Subsections of Hugo Starter</h1>
-<article class="default">
-  <header class="headline">
-  </header>
-
-<h1 id="introduction">Introduction</h1>
-
-<p>Lorem Ipsum.</p>
-
-  <footer class="footline">
-  </footer>
-</article>
-          <section>
-            <h1 class="a11y-only">Subsections of Introduction</h1>
-<article class="default">
-  <header class="headline">
-  </header>
-
-<h1 id="welcome">Welcome</h1>
-
-<p>Lorem Ipsum.</p>
-
-  <footer class="footline">
-  </footer>
-</article>
-          </section>
-<article class="default">
-  <header class="headline">
-  </header>
-
-<h1 id="computer-science">Computer Science</h1>
-
-<p>In this week we will be focusing on Computer Science and will be using the Scratch framework.</p>
-
-  <footer class="footline">
-  </footer>
-</article>
-          <section>
-            <h1 class="a11y-only">Subsections of Computer Science</h1>
-<article class="default">
-  <header class="headline">
-  </header>
-
-<h1 id="day-1">Day 1</h1>
-
-<h2 id="activity-1---coding-ode-to-joy">Activity 1 - Coding Ode to Joy</h2>
-<p>Pair Programming Video
-
-<a href="https://www.youtube.com/watch?v=vgkahOzFH2Q">YouTube Video</a>
-</p>
-<p>Tutorial
-
-<a href="https://www.youtube.com/watch?v=f9TeWbMlZK4">YouTube Video</a>
-</p>
-<p>Resources</p>
-<ul>
-<li><a href="https://drive.google.com/file/d/1f0VRgylUM2s6CkwujHhmaCRGtw--W6Jr/view?usp=drive_link" rel="external" target="_blank">Ode to Joy Sheet Music</a></li>
-<li><a href="https://drive.google.com/file/d/1tKGLKrVOC4cmTppgoLoS36tP9sOTdh6N/view?usp=drive_link" rel="external" target="_blank">Reading Music Handout</a></li>
-</ul>
-<h2 id="activity-2-turtle-graphics">Activity #2: Turtle Graphics</h2>
-<p><a href="https://scratch.mit.edu/projects/857489940/" rel="external" target="_blank">Starter Project</a></p>
-
-<a href="https://www.youtube.com/watch?v=levlfvXIB4M">YouTube Video</a>
-
-
-  <footer class="footline">
-  </footer>
-</article>
 <article class="default">
   <header class="headline">
   </header>
@@ -235,51 +166,6 @@
   <footer class="footline">
   </footer>
 </article>
-<article class="default">
-  <header class="headline">
-  </header>
-
-<h1 id="day-3">Day 3</h1>
-
-<h2 id="activity-1-drone-movement">Activity 1: Drone Movement</h2>
-<p>Builds off the drone state machine from Day 2</p>
-<p>Drone Movement
-
-<a href="https://www.youtube.com/watch?v=PFixHGHxHBQ">YouTube Video</a>
-</p>
-<p>Lateral Drone Movement
-
-<a href="https://www.youtube.com/watch?v=As7ZIF4qJ78">YouTube Video</a>
-</p>
-<p>Rotational Drone Movement
-
-<a href="https://www.youtube.com/watch?v=FFp97Km3mOk">YouTube Video</a>
-</p>
-<p><a href="https://drive.google.com/file/d/17sdACedaXIQMraVR7KnshrdlsJjLGJUK/view?usp=sharing" rel="external" target="_blank">Drone Art</a></p>
-<h2 id="activity-2-models-and-simulation-part-i">Activity 2: Models and Simulation Part I</h2>
-<p>Tutorial
-
-<a href="https://www.youtube.com/watch?v=0kpfqWjpBHs">YouTube Video</a>
-</p>
-<h2 id="virtual-beocat-tour">Virtual Beocat Tour</h2>
-<p>Visit <a href="https://kstate.designori.net/" rel="external" target="_blank">https://kstate.designori.net/</a> and select “Beocat Supercomputer”</p>
-<h2 id="activity-3-models--simulations-part-ii">Activity 3: Models &amp; Simulations Part II</h2>
-
-<a href="https://www.youtube.com/watch?v=aMIRuZnOVoY">YouTube Video</a>
-
-<h2 id="activity-4-graphing-mathematical-functions">Activity 4: Graphing Mathematical Functions</h2>
-<p><a href="https://scratch.mit.edu/projects/858492848/" rel="external" target="_blank">Starter Project</a></p>
-<p>Tutorial
-
-<a href="https://www.youtube.com/watch?v=U0_QlaxWVEA">YouTube Video</a>
-</p>
-<h2 id="activity--5-qa-with-dr-bean-on-zoom">Activity  5: Q&amp;A with Dr. Bean (on Zoom)</h2>
-
-  <footer class="footline">
-  </footer>
-</article>
-          </section>
-          </section>
         </div>
       </main>
       

@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://textbooks.cs.ksu.edu/hugo-starter/01-introduction/index.html</loc>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.html</loc>
+    <lastmod>2026-05-15T20:54:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/index.html</loc>
+    <lastmod>2026-05-15T20:54:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/01-day-1/index.html</loc>
+    <lastmod>2026-05-15T20:54:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/01-welcome/index.html</loc>
+    <lastmod>2026-05-15T20:54:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/02-day-2/index.html</loc>
+    <lastmod>2026-05-15T20:54:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/03-day-3/index.html</loc>
+    <lastmod>2026-05-15T20:54:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/index.html</loc>
     <lastmod>2026-05-13T13:44:01-05:00</lastmod>
   </url>
   <url>
-    <loc>https://textbooks.cs.ksu.edu/hugo-starter/01-introduction/01-welcome/index.html</loc>
-    <lastmod>2026-05-13T13:44:01-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://textbooks.cs.ksu.edu/hugo-starter/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>https://textbooks.cs.ksu.edu/hugo-starter/index.html</loc>
-    <lastmod>2026-05-13T13:44:01-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://textbooks.cs.ksu.edu/hugo-starter/tags/index.html</loc>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/tags/index.html</loc>
   </url>
 </urlset>
