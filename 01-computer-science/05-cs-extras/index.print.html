@@ -1,34 +1,40 @@
 <!DOCTYPE html>
 
-<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="print">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="generator" content="Hugo 0.148.1">
     <meta name="generator" content="Relearn 8.0.0">
-    <meta name="description" content="Lorem Ipsum.">
+    <meta name="description" content="Scrolling Shooter Tutorial Starter Project
+Part 1 - P38 Animation YouTube Video Part 2 - P38 Movement YouTube Video Part 3 - Player Bullets YouTube Video Part 4 - Cloning Player Bullets YouTube Video Part 5 - Adding an Enemy Plane YouTube Video Part 6 - Bullet Sounds YouTube Video Part 7 - Player/Enemy Collisions YouTube Video Part 8 - Player Explosions YouTube Video Part 9 - Enemy Explosions YouTube Video Part 10 - Player Lives YouTube Video Part 11 - Islands in the Sea YouTube Video">
     <meta name="author" content="Russell Feldhausen">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <meta name="twitter:title" content="Introduction :: Hugo Starter Template">
-    <meta name="twitter:description" content="Lorem Ipsum.">
-    <meta property="og:url" content="https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.html">
+    <meta name="twitter:title" content="CS Extras :: Hugo Starter Template">
+    <meta name="twitter:description" content="Scrolling Shooter Tutorial Starter Project
+Part 1 - P38 Animation YouTube Video Part 2 - P38 Movement YouTube Video Part 3 - Player Bullets YouTube Video Part 4 - Cloning Player Bullets YouTube Video Part 5 - Adding an Enemy Plane YouTube Video Part 6 - Bullet Sounds YouTube Video Part 7 - Player/Enemy Collisions YouTube Video Part 8 - Player Explosions YouTube Video Part 9 - Enemy Explosions YouTube Video Part 10 - Player Lives YouTube Video Part 11 - Islands in the Sea YouTube Video">
+    <meta property="og:url" content="https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/05-cs-extras/index.html">
     <meta property="og:site_name" content="Hugo Starter Template">
-    <meta property="og:title" content="Introduction :: Hugo Starter Template">
-    <meta property="og:description" content="Lorem Ipsum.">
+    <meta property="og:title" content="CS Extras :: Hugo Starter Template">
+    <meta property="og:description" content="Scrolling Shooter Tutorial Starter Project
+Part 1 - P38 Animation YouTube Video Part 2 - P38 Movement YouTube Video Part 3 - Player Bullets YouTube Video Part 4 - Cloning Player Bullets YouTube Video Part 5 - Adding an Enemy Plane YouTube Video Part 6 - Bullet Sounds YouTube Video Part 7 - Player/Enemy Collisions YouTube Video Part 8 - Player Explosions YouTube Video Part 9 - Enemy Explosions YouTube Video Part 10 - Player Lives YouTube Video Part 11 - Islands in the Sea YouTube Video">
     <meta property="og:locale" content="en_us">
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Computer Science">
+    <meta property="article:modified_time" content="2026-05-20T13:52:20-05:00">
     <meta property="og:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <meta itemprop="name" content="Introduction :: Hugo Starter Template">
-    <meta itemprop="description" content="Lorem Ipsum.">
-    <meta itemprop="dateModified" content="2026-05-15T20:54:34+00:00">
-    <meta itemprop="wordCount" content="2">
+    <meta itemprop="name" content="CS Extras :: Hugo Starter Template">
+    <meta itemprop="description" content="Scrolling Shooter Tutorial Starter Project
+Part 1 - P38 Animation YouTube Video Part 2 - P38 Movement YouTube Video Part 3 - Player Bullets YouTube Video Part 4 - Cloning Player Bullets YouTube Video Part 5 - Adding an Enemy Plane YouTube Video Part 6 - Bullet Sounds YouTube Video Part 7 - Player/Enemy Collisions YouTube Video Part 8 - Player Explosions YouTube Video Part 9 - Enemy Explosions YouTube Video Part 10 - Player Lives YouTube Video Part 11 - Islands in the Sea YouTube Video">
+    <meta itemprop="dateModified" content="2026-05-20T13:52:20-05:00">
+    <meta itemprop="wordCount" content="94">
     <meta itemprop="image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <title>Introduction :: Hugo Starter Template</title>
-    <link href="https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.html" rel="canonical" type="text/html" title="Introduction :: Hugo Starter Template">
-    <link href="/ks-leapes/00-introduction/index.xml" rel="alternate" type="application/rss+xml" title="Introduction :: Hugo Starter Template">
-    <link href="/ks-leapes/00-introduction/index.print.html" rel="alternate" type="text/html" title="Introduction :: Hugo Starter Template">
-    <link href="/ks-leapes/00-introduction/embed.html" rel="alternate" type="text/html" title="Introduction :: Hugo Starter Template">
+    <title>CS Extras :: Hugo Starter Template</title>
+    <link href="https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/05-cs-extras/index.html" rel="canonical" type="text/html" title="CS Extras :: Hugo Starter Template">
+    <link href="/ks-leapes/01-computer-science/05-cs-extras/index.xml" rel="alternate" type="application/rss+xml" title="CS Extras :: Hugo Starter Template">
+    <link href="/ks-leapes/01-computer-science/05-cs-extras/tele.html" rel="alternate" type="text/html" title="CS Extras :: Hugo Starter Template">
+    <link href="/ks-leapes/01-computer-science/05-cs-extras/embed.html" rel="alternate" type="text/html" title="CS Extras :: Hugo Starter Template">
     <link href="/ks-leapes/css/auto-complete/auto-complete.min.css?1779303182" rel="stylesheet">
     <script src="/ks-leapes/js/auto-complete/auto-complete.min.js?1779303182" defer></script>
     <script src="/ks-leapes/js/search-lunr.min.js?1779303182" defer></script>
@@ -48,14 +54,14 @@
     <link href="/ks-leapes/fonts/fontawesome/css/fontawesome-all.min.css?1779303182" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/ks-leapes/fonts/fontawesome/css/fontawesome-all.min.css?1779303182" rel="stylesheet"></noscript>
     <link href="/ks-leapes/css/perfect-scrollbar/perfect-scrollbar.min.css?1779303182" rel="stylesheet">
     <link href="/ks-leapes/css/theme.min.css?1779303182" rel="stylesheet">
-    <link href="/ks-leapes/css/format-html.min.css?1779303182" rel="stylesheet" id="R-format-style">
+    <link href="/ks-leapes/css/format-print.min.css?1779303182" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
       window.relearn.min = `.min`;
-      window.relearn.path='\/00-introduction\/index.html';
-      window.relearn.relBasePath='..';
-      window.relearn.relBaseUri='..\/..';
+      window.relearn.path='\/01-computer-science\/05-cs-extras\/index.html';
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
       window.relearn.absBaseUri='https:\/\/textbooks.cs.ksu.edu\/ks-leapes';
       window.relearn.disableAnchorCopy=false;
       window.relearn.disableAnchorScrolling=false;
@@ -109,25 +115,71 @@
     </script>
     <link href="/ks-leapes/css/custom.css?1779303182" rel="stylesheet">
   </head>
-  <body class="mobile-support html" data-url="/ks-leapes/00-introduction/index.html">
-    
-    <div id="tele" class="tele mirror">
-    
+  <body class="mobile-support embed print" data-url="/ks-leapes/01-computer-science/05-cs-extras/index.html">
     <div id="R-body" class="default-animation">
       <div id="R-body-overlay"></div>
       
       
       
       <div id="R-main-overlay"></div>
-      <main id="R-body-inner" class="highlightable 00-introduction" tabindex="-1">
+      <main id="R-body-inner" class="highlightable 01-computer-science" tabindex="-1">
         <div class="flex-block-wrapper">
 <article class="default">
   <header class="headline">
   </header>
 
-<h1 id="introduction">Introduction</h1>
+<h1 id="cs-extras">CS Extras</h1>
 
-<p>Lorem Ipsum.</p>
+<h2 id="scrolling-shooter-tutorial">Scrolling Shooter Tutorial</h2>
+<p><a href="https://scratch.mit.edu/projects/12630752/" rel="external" target="_blank">Starter Project</a></p>
+<p>Part 1 - P38 Animation
+
+<a href="https://www.youtube.com/watch?v=wUPtlPX8CIk">YouTube Video</a>
+</p>
+<p>Part 2 - P38 Movement
+
+<a href="https://www.youtube.com/watch?v=vfZVzRwz5d4">YouTube Video</a>
+</p>
+<p>Part 3 - Player Bullets
+
+<a href="https://www.youtube.com/watch?v=FccNFOh71WQ">YouTube Video</a>
+</p>
+<p>Part 4 - Cloning Player Bullets
+
+<a href="https://www.youtube.com/watch?v=vFmROv22ghE">YouTube Video</a>
+</p>
+<p>Part 5 - Adding an Enemy Plane
+
+<a href="https://www.youtube.com/watch?v=5KvBNzzWvZI">YouTube Video</a>
+</p>
+<p>Part 6 - Bullet Sounds
+
+<a href="https://www.youtube.com/watch?v=Vw_JKGpm95Y">YouTube Video</a>
+</p>
+<p>Part 7 - Player/Enemy Collisions
+
+<a href="https://www.youtube.com/watch?v=evNVJPvGNkM">YouTube Video</a>
+</p>
+<p>Part 8 - Player Explosions
+
+<a href="https://www.youtube.com/watch?v=e25AUwlXeGY">YouTube Video</a>
+</p>
+<p>Part 9 - Enemy Explosions
+
+<a href="https://www.youtube.com/watch?v=sOPNGnIhXOI">YouTube Video</a>
+</p>
+<p>Part 10 - Player Lives
+
+<a href="https://www.youtube.com/watch?v=3dPbSkb9HlM">YouTube Video</a>
+</p>
+<p>Part 11 - Islands in the Sea
+
+<a href="https://www.youtube.com/watch?v=ORsHgZ_7FjI">YouTube Video</a>
+</p>
+<p>Part 12 - Evasive Maneuvers
+
+<a href="https://www.youtube.com/watch?v=2haBKLac4fY">YouTube Video</a>
+</p>
 
   <footer class="footline">
   </footer>
@@ -141,10 +193,6 @@
     <script src="/ks-leapes/js/clipboard/clipboard.min.js?1779303182" defer></script>
     <script src="/ks-leapes/js/perfect-scrollbar/perfect-scrollbar.min.js?1779303182" defer></script>
     <script src="/ks-leapes/js/theme.min.js?1779303182" defer></script>
-      
-      
-      
-    </div> 
-  <script src="/ks-leapes/js/tele-scroll.min.js?1779303182" defer></script>
+  <script src="/ks-leapes/js/embed-iframe.min.js?1779303182" defer></script>
   </body>
 </html>

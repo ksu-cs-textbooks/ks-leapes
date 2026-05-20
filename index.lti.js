@@ -48,6 +48,22 @@ var relearn_lti_index = [
     "uri": "/ks-leapes/01-computer-science/03-day-3/index.html"
   },
   {
+    "breadcrumb": "Computer Science",
+    "description": "Activity 1: Wheat Growth Simulation Pt 1 Starter Project\nTutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”\nActivity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project\nWorksheet\nTutorial",
+    "modified": "2026-05-18T16:03:26+00:00",
+    "tags": [],
+    "title": "Day 4",
+    "uri": "/ks-leapes/01-computer-science/04-day-4/index.html"
+  },
+  {
+    "breadcrumb": "Computer Science",
+    "description": "Scrolling Shooter Tutorial Starter Project\nPart 1 - P38 Animation Part 2 - P38 Movement Part 3 - Player Bullets",
+    "modified": "2026-05-20T13:52:20-05:00",
+    "tags": [],
+    "title": "CS Extras",
+    "uri": "/ks-leapes/01-computer-science/05-cs-extras/index.html"
+  },
+  {
     "breadcrumb": "",
     "description": "",
     "modified": "0001-01-01T00:00:00+00:00",

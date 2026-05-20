@@ -28,5 +28,19 @@
       <guid>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/03-day-3/index.html</guid>
       <description>Activity 1: Drone Movement Builds off the drone state machine from Day 2&#xA;Drone Movement Lateral Drone Movement Rotational Drone Movement</description>
     </item>
+    <item>
+      <title>Day 4</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/04-day-4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/04-day-4/index.html</guid>
+      <description>Activity 1: Wheat Growth Simulation Pt 1 Starter Project&#xA;Tutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”&#xA;Activity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project&#xA;Worksheet&#xA;Tutorial</description>
+    </item>
+    <item>
+      <title>CS Extras</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/05-cs-extras/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/05-cs-extras/index.html</guid>
+      <description>Scrolling Shooter Tutorial Starter Project&#xA;Part 1 - P38 Animation Part 2 - P38 Movement Part 3 - Player Bullets</description>
+    </item>
   </channel>
 </rss>

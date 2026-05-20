@@ -48,6 +48,22 @@ var relearn_searchindex = [
     "uri": "/ks-leapes/01-computer-science/03-day-3/index.html"
   },
   {
+    "breadcrumb": "Computer Science",
+    "content": "Activity 1: Wheat Growth Simulation Pt 1 Starter Project\nTutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”\nActivity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project\nWorksheet\nTutorial Manhattan Weather Data Example\nActivity 4: Growth Stages Continue to use Wheat Growth Simulation Scratch Project Tutorial",
+    "description": "Activity 1: Wheat Growth Simulation Pt 1 Starter Project\nTutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”\nActivity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project\nWorksheet\nTutorial",
+    "tags": [],
+    "title": "Day 4",
+    "uri": "/ks-leapes/01-computer-science/04-day-4/index.html"
+  },
+  {
+    "breadcrumb": "Computer Science",
+    "content": "Scrolling Shooter Tutorial Starter Project\nPart 1 - P38 Animation Part 2 - P38 Movement Part 3 - Player Bullets Part 4 - Cloning Player Bullets Part 5 - Adding an Enemy Plane Part 6 - Bullet Sounds Part 7 - Player/Enemy Collisions Part 8 - Player Explosions Part 9 - Enemy Explosions Part 10 - Player Lives Part 11 - Islands in the Sea Part 12 - Evasive Maneuvers",
+    "description": "Scrolling Shooter Tutorial Starter Project\nPart 1 - P38 Animation Part 2 - P38 Movement Part 3 - Player Bullets",
+    "tags": [],
+    "title": "CS Extras",
+    "uri": "/ks-leapes/01-computer-science/05-cs-extras/index.html"
+  },
+  {
     "breadcrumb": "",
     "content": "",
     "description": "",
