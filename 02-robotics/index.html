@@ -5,35 +5,29 @@
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="generator" content="Hugo 0.148.1">
     <meta name="generator" content="Relearn 8.0.0">
-    <meta name="description" content="Activity 1: Drone Movement Builds off the drone state machine from Day 2
-Drone Movement Lateral Drone Movement Rotational Drone Movement">
+    <meta name="description" content="Activities for this week center around assembling and programming Makeblock mBot educational robots.">
     <meta name="author" content="Nathan Bean">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <meta name="twitter:title" content="Day 3 :: KS LEAPES">
-    <meta name="twitter:description" content="Activity 1: Drone Movement Builds off the drone state machine from Day 2
-Drone Movement Lateral Drone Movement Rotational Drone Movement">
-    <meta property="og:url" content="https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/03-day-3/index.html">
+    <meta name="twitter:title" content="Robotics :: KS LEAPES">
+    <meta name="twitter:description" content="Activities for this week center around assembling and programming Makeblock mBot educational robots.">
+    <meta property="og:url" content="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html">
     <meta property="og:site_name" content="KS LEAPES">
-    <meta property="og:title" content="Day 3 :: KS LEAPES">
-    <meta property="og:description" content="Activity 1: Drone Movement Builds off the drone state machine from Day 2
-Drone Movement Lateral Drone Movement Rotational Drone Movement">
+    <meta property="og:title" content="Robotics :: KS LEAPES">
+    <meta property="og:description" content="Activities for this week center around assembling and programming Makeblock mBot educational robots.">
     <meta property="og:locale" content="en_us">
-    <meta property="og:type" content="article">
-    <meta property="article:section" content="Computer Science">
-    <meta property="article:modified_time" content="2026-05-15T20:54:34+00:00">
+    <meta property="og:type" content="website">
     <meta property="og:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <meta itemprop="name" content="Day 3 :: KS LEAPES">
-    <meta itemprop="description" content="Activity 1: Drone Movement Builds off the drone state machine from Day 2
-Drone Movement Lateral Drone Movement Rotational Drone Movement">
-    <meta itemprop="dateModified" content="2026-05-15T20:54:34+00:00">
-    <meta itemprop="wordCount" content="63">
+    <meta itemprop="name" content="Robotics :: KS LEAPES">
+    <meta itemprop="description" content="Activities for this week center around assembling and programming Makeblock mBot educational robots.">
+    <meta itemprop="dateModified" content="2026-05-27T12:47:03-05:00">
+    <meta itemprop="wordCount" content="13">
     <meta itemprop="image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
-    <title>Day 3 :: KS LEAPES</title>
-    <link href="/ks-leapes/01-computer-science/03-day-3/index.xml" rel="alternate" type="application/rss+xml" title="Day 3 :: KS LEAPES">
-    <link href="/ks-leapes/01-computer-science/03-day-3/index.print.html" rel="alternate" type="text/html" title="Day 3 :: KS LEAPES">
-    <link href="/ks-leapes/01-computer-science/03-day-3/tele.html" rel="alternate" type="text/html" title="Day 3 :: KS LEAPES">
-    <link href="/ks-leapes/01-computer-science/03-day-3/embed.html" rel="alternate" type="text/html" title="Day 3 :: KS LEAPES">
+    <title>Robotics :: KS LEAPES</title>
+    <link href="/ks-leapes/02-robotics/index.xml" rel="alternate" type="application/rss+xml" title="Robotics :: KS LEAPES">
+    <link href="/ks-leapes/02-robotics/index.print.html" rel="alternate" type="text/html" title="Robotics :: KS LEAPES">
+    <link href="/ks-leapes/02-robotics/tele.html" rel="alternate" type="text/html" title="Robotics :: KS LEAPES">
+    <link href="/ks-leapes/02-robotics/embed.html" rel="alternate" type="text/html" title="Robotics :: KS LEAPES">
     <link href="/ks-leapes/css/auto-complete/auto-complete.min.css?1779904044" rel="stylesheet">
     <script src="/ks-leapes/js/auto-complete/auto-complete.min.js?1779904044" defer></script>
     <script src="/ks-leapes/js/search-lunr.min.js?1779904044" defer></script>
@@ -58,9 +52,9 @@ Drone Movement Lateral Drone Movement Rotational Drone Movement">
       window.relearn = window.relearn || {};
       // configuration
       window.relearn.min = `.min`;
-      window.relearn.path='\/01-computer-science\/03-day-3\/index.html';
-      window.relearn.relBasePath='..\/..';
-      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.path='\/02-robotics\/index.html';
+      window.relearn.relBasePath='..';
+      window.relearn.relBaseUri='..\/..';
       window.relearn.absBaseUri='https:\/\/textbooks.cs.ksu.edu\/ks-leapes';
       window.relearn.disableAnchorCopy=false;
       window.relearn.disableAnchorScrolling=false;
@@ -114,7 +108,7 @@ Drone Movement Lateral Drone Movement Rotational Drone Movement">
     </script>
     <link href="/ks-leapes/css/custom.css?1779904044" rel="stylesheet">
   </head>
-  <body class="mobile-support html" data-url="/ks-leapes/01-computer-science/03-day-3/index.html">
+  <body class="mobile-support html" data-url="/ks-leapes/02-robotics/index.html">
     <div id="R-body" class="default-animation">
       <div id="R-body-overlay"></div>
       <nav id="R-topbar">
@@ -125,39 +119,29 @@ Drone Movement Lateral Drone Movement Rotational Drone Movement">
             </div>
             <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button>
               <div class="topbar-content">
-                <div class="topbar-content-wrapper">
-<nav class="TableOfContents">
-  <ul>
-    <li><a href="#activity-1-drone-movement">Activity 1: Drone Movement</a></li>
-    <li><a href="#activity-2-models-and-simulation-part-i">Activity 2: Models and Simulation Part I</a></li>
-    <li><a href="#virtual-beocat-tour">Virtual Beocat Tour</a></li>
-    <li><a href="#activity-3-models--simulations-part-ii">Activity 3: Models &amp; Simulations Part II</a></li>
-    <li><a href="#activity-4-graphing-mathematical-functions">Activity 4: Graphing Mathematical Functions</a></li>
-    <li><a href="#activity--5-qa-with-dr-bean-on-zoom">Activity  5: Q&amp;A with Dr. Bean (on Zoom)</a></li>
-  </ul>
-</nav>
+                <div class="topbar-content-wrapper"> 
                 </div>
               </div>
             </div>
           </div>
-          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class="a11y-only"><a itemprop="item" href="/ks-leapes/index.html"><span itemprop="name">KS LEAPES</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/ks-leapes/01-computer-science/index.html"><span itemprop="name">Computer Science</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">Day 3</span><meta itemprop="position" content="3"></li>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class="a11y-only"><a itemprop="item" href="/ks-leapes/index.html"><span itemprop="name">KS LEAPES</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">Robotics</span><meta itemprop="position" content="2"></li>
           </ol>
           <div class="topbar-area topbar-area-end" data-area="end">
-            <div class="topbar-button topbar-button-edit" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="https://github.com/ksu-cs-textbooks/ks-leapes/edit/main/content/01-computer-science/03-day-3.md" rel="external" target="_blank" title="Edit (CTRL+ALT+w)"><i class="fa-fw fas fa-pen"></i></a>
+            <div class="topbar-button topbar-button-edit" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="https://github.com/ksu-cs-textbooks/ks-leapes/edit/main/content/02-robotics/_index.md" rel="external" target="_blank" title="Edit (CTRL+ALT+w)"><i class="fa-fw fas fa-pen"></i></a>
             </div>
-            <div class="topbar-button topbar-button-print" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/01-computer-science/03-day-3/index.print.html" title="Print whole chapter (CTRL+ALT+p)"><i class="fa-fw fas fa-print"></i></a>
+            <div class="topbar-button topbar-button-print" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/index.print.html" title="Print whole chapter (CTRL+ALT+p)"><i class="fa-fw fas fa-print"></i></a>
             </div>
-            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/01-computer-science/02-day-2/index.html" title="Day 2 (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/01-computer-science/05-cs-extras/index.html" title="CS Extras (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
             </div>
-            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/01-computer-science/04-day-4/index.html" title="Day 4 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><span class="topbar-control"><i class="fa-fw fas fa-chevron-right"></i></span>
             </div>
             <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button>
               <div class="topbar-content">
                 <div class="topbar-content-wrapper">
                   <div class="topbar-area topbar-area-more" data-area="more">
-            <div class="topbar-button topbar-button-embed" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/01-computer-science/03-day-3/embed.html" title="Embeddable Version"><i class="fa-fw fas fa-expand-arrows-alt"></i></a>
+            <div class="topbar-button topbar-button-embed" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/embed.html" title="Embeddable Version"><i class="fa-fw fas fa-expand-arrows-alt"></i></a>
             </div>
-            <div class="topbar-button topbar-button-tele" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/01-computer-science/03-day-3/tele.html" title="Teleprompter View"><i class="fa-fw fas fa-tv"></i></a>
+            <div class="topbar-button topbar-button-tele" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/tele.html" title="Teleprompter View"><i class="fa-fw fas fa-tv"></i></a>
             </div>
                   </div>
                 </div>
@@ -167,59 +151,17 @@ Drone Movement Lateral Drone Movement Rotational Drone Movement">
         </div>
       </nav>
       <div id="R-main-overlay"></div>
-      <main id="R-body-inner" class="highlightable 01-computer-science" tabindex="-1">
+      <main id="R-body-inner" class="highlightable 02-robotics" tabindex="-1">
         <div class="flex-block-wrapper">
 <article class="default">
   <header class="headline">
   </header>
 
-<h1 id="day-3">Day 3</h1>
+<h1 id="robotics">Robotics</h1>
 
-<h2 id="activity-1-drone-movement">Activity 1: Drone Movement</h2>
-<p>Builds off the drone state machine from Day 2</p>
-<p>Drone Movement
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/PFixHGHxHBQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-</p>
-<p>Lateral Drone Movement
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/As7ZIF4qJ78" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-</p>
-<p>Rotational Drone Movement
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/FFp97Km3mOk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-</p>
-<p><a href="https://drive.google.com/file/d/17sdACedaXIQMraVR7KnshrdlsJjLGJUK/view?usp=sharing" rel="external" target="_blank">Drone Art</a></p>
-<h2 id="activity-2-models-and-simulation-part-i">Activity 2: Models and Simulation Part I</h2>
-<p>Tutorial
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/0kpfqWjpBHs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-</p>
-<h2 id="virtual-beocat-tour">Virtual Beocat Tour</h2>
-<p>Visit <a href="https://kstate.designori.net/" rel="external" target="_blank">https://kstate.designori.net/</a> and select “Beocat Supercomputer”</p>
-<h2 id="activity-3-models--simulations-part-ii">Activity 3: Models &amp; Simulations Part II</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/aMIRuZnOVoY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h2 id="activity-4-graphing-mathematical-functions">Activity 4: Graphing Mathematical Functions</h2>
-<p><a href="https://scratch.mit.edu/projects/858492848/" rel="external" target="_blank">Starter Project</a></p>
-<p>Tutorial
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/U0_QlaxWVEA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-</p>
-<h2 id="activity--5-qa-with-dr-bean-on-zoom">Activity  5: Q&amp;A with Dr. Bean (on Zoom)</h2>
+<p>Activities for this week center around assembling and programming <a href="https://www.makeblock.com/" rel="external" target="_blank">Makeblock mBot</a> educational robots.</p>
+<p><a href="#R-image-1258041c5349e21dc819860c0ca323cc" class="lightbox-link"><img alt="An assembled mBot robot" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/mbot.jpg" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-1258041c5349e21dc819860c0ca323cc"><img alt="An assembled mBot robot" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/mbot.jpg"></a></p>
 
   <footer class="footline">
   </footer>
@@ -230,7 +172,7 @@ Drone Movement Lateral Drone Movement Rotational Drone Movement">
   <p class="theme-version-footer">8.0.0</p>
 <p>Last modified by:
               <i class='fa-fw fas fa-user'></i> Nathan Bean
-              <i class='fas fa-calendar'></i> <a href="https://github.com/ksu-cs-textbooks/ks-leapes/commit/6e0c562cf91654b15433024a26779238546a3d02">May 15, 2026</a>
+              <i class='fas fa-calendar'></i> <a href="https://github.com/ksu-cs-textbooks/ks-leapes/commit/65172bbf4ab82c67cfefcddbf5f32f2272c23d8e">May 27, 2026</a>
 </p>
 
 </div>
@@ -280,13 +222,13 @@ Drone Movement Lateral Drone Movement Rotational Drone Movement">
             <li class="" data-nav-id="/ks-leapes/00-introduction/index.html"><input type="checkbox" id="R-section-c339651bea13e533aa47a07d8122ee89" aria-controls="R-subsections-c339651bea13e533aa47a07d8122ee89"><label for="R-section-c339651bea13e533aa47a07d8122ee89"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Introduction</span></label><a class="padding" href="/ks-leapes/00-introduction/index.html"><b>0. </b>Introduction</a><ul id="R-subsections-c339651bea13e533aa47a07d8122ee89" class="collapsible-menu">
             <li class="" data-nav-id="/ks-leapes/00-introduction/01-welcome/index.html"><a class="padding" href="/ks-leapes/00-introduction/01-welcome/index.html">1. Welcome</a></li>
             <li class="" data-nav-id="/ks-leapes/00-introduction/02-camp-details/index.html"><a class="padding" href="/ks-leapes/00-introduction/02-camp-details/index.html">2. Camp Details</a></li></ul></li>
-            <li class="parent " data-nav-id="/ks-leapes/01-computer-science/index.html"><input type="checkbox" id="R-section-04f6e77629df0431c450d58330f1c2a2" aria-controls="R-subsections-04f6e77629df0431c450d58330f1c2a2" checked><label for="R-section-04f6e77629df0431c450d58330f1c2a2"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Computer Science</span></label><a class="padding" href="/ks-leapes/01-computer-science/index.html"><b>1. </b>Computer Science</a><ul id="R-subsections-04f6e77629df0431c450d58330f1c2a2" class="collapsible-menu">
+            <li class="" data-nav-id="/ks-leapes/01-computer-science/index.html"><input type="checkbox" id="R-section-04f6e77629df0431c450d58330f1c2a2" aria-controls="R-subsections-04f6e77629df0431c450d58330f1c2a2"><label for="R-section-04f6e77629df0431c450d58330f1c2a2"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Computer Science</span></label><a class="padding" href="/ks-leapes/01-computer-science/index.html"><b>1. </b>Computer Science</a><ul id="R-subsections-04f6e77629df0431c450d58330f1c2a2" class="collapsible-menu">
             <li class="" data-nav-id="/ks-leapes/01-computer-science/01-day-1/index.html"><a class="padding" href="/ks-leapes/01-computer-science/01-day-1/index.html">1. Day 1</a></li>
             <li class="" data-nav-id="/ks-leapes/01-computer-science/02-day-2/index.html"><a class="padding" href="/ks-leapes/01-computer-science/02-day-2/index.html">2. Day 2</a></li>
-            <li class="active " data-nav-id="/ks-leapes/01-computer-science/03-day-3/index.html"><a class="padding" href="/ks-leapes/01-computer-science/03-day-3/index.html">3. Day 3</a></li>
+            <li class="" data-nav-id="/ks-leapes/01-computer-science/03-day-3/index.html"><a class="padding" href="/ks-leapes/01-computer-science/03-day-3/index.html">3. Day 3</a></li>
             <li class="" data-nav-id="/ks-leapes/01-computer-science/04-day-4/index.html"><a class="padding" href="/ks-leapes/01-computer-science/04-day-4/index.html">4. Day 4</a></li>
             <li class="" data-nav-id="/ks-leapes/01-computer-science/05-cs-extras/index.html"><a class="padding" href="/ks-leapes/01-computer-science/05-cs-extras/index.html">5. CS Extras</a></li></ul></li>
-            <li class="" data-nav-id="/ks-leapes/02-robotics/index.html"><a class="padding" href="/ks-leapes/02-robotics/index.html"><b>2. </b>Robotics</a></li>
+            <li class="active " data-nav-id="/ks-leapes/02-robotics/index.html"><a class="padding" href="/ks-leapes/02-robotics/index.html"><b>2. </b>Robotics</a></li>
           </ul>
         </div>
         <div class="R-sidebarmenu R-shortcutmenu-shortcuts">

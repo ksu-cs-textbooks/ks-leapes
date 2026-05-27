@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer Science :: Hugo Starter Template</title>
+    <title>Computer Science :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/index.html</link>
-    <description>In this week we will be focusing on Computer Science and will be using the Scratch framework.</description>
+    <description>In this week we use the Scratch programming environment. Scratch uses block-based programming to enable student to create and share stories, games, and animations while learning the fundamentals of computer science.&#xA;This week’s sessions will be led by Dr. Nathan Bean of the Kansas State University Department of Computer Science.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/index.xml" rel="self" type="application/rss+xml" />

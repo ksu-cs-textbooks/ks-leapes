@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction :: Hugo Starter Template</title>
+    <title>Introduction :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.html</link>
-    <description>Lorem Ipsum.</description>
+    <description>Kansas LEAPES (Learning, Exploration, and Application for Prospective Engineering Students) is an innovative distributed STEM summer camp that seeks to spark interest in science, technology, engineering, and mathematics (STEM) careers among 7th–12th grade students statewide.&#xA;The primary goal of Project LEAPES is to engage students in awareness, exploration, and preparation activities related to careers in engineering, artificial intelligence, and computer science, all of which are critically important areas to national security.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,14 @@
       <link>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/01-welcome/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/01-welcome/index.html</guid>
-      <description>Lorem Ipsum.</description>
+      <description></description>
+    </item>
+    <item>
+      <title>Camp Details</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/02-camp-details/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/02-camp-details/index.html</guid>
+      <description>The KS-LEAPES summer camp uses a unique distributed model - schools across the state of Kansas host local camps, offering a curriculum developed and led by K-State faculty. Camp activities include a mixture of hands-on, asynchronous activities, virtual tours of research and manfacturing facilties, and synchronous discussions with K-State faculty, industry leaders, and more!&#xA;Important Dates June 3, 9:00am-3:00pm Teacher PD Session&#xA;June 8-11, 9:00am-12:00pm Computer Science Week</description>
     </item>
   </channel>
 </rss>

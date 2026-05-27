@@ -1,19 +1,27 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "",
-    "content": "Lorem Ipsum.",
-    "description": "Lorem Ipsum.",
+    "content": "Kansas LEAPES (Learning, Exploration, and Application for Prospective Engineering Students) is an innovative distributed STEM summer camp that seeks to spark interest in science, technology, engineering, and mathematics (STEM) careers among 7th–12th grade students statewide.\nThe primary goal of Project LEAPES is to engage students in awareness, exploration, and preparation activities related to careers in engineering, artificial intelligence, and computer science, all of which are critically important areas to national security.\nOver the past four years, Project LEAPES equipped 120 teachers through professional development and welcomed an average of 400 middle school students each summer to its STEM camps taught by K-State professors of Robotics, Computer Science, and Aerospace Engineering. Students reported leaving camp with greater enthusiasm for STEM topics and a stronger belief that they could succeed in STEM fields. Teachers gained tools to keep the momentum going in their classrooms, and students left inspired to imagine themselves as the next generation of scientists, engineers, and innovators.\nInitially funded by a three-year, $2.7 million U.S. Department of Defense grant, the camp continues to be offered through the dedicated efforts of Kansas State University’s Rural Education Center, Advancing Learning and Teaching Computer Science lab, and K-State Salina.",
+    "description": "Kansas LEAPES (Learning, Exploration, and Application for Prospective Engineering Students) is an innovative distributed STEM summer camp that seeks to spark interest in science, technology, engineering, and mathematics (STEM) careers among 7th–12th grade students statewide.\nThe primary goal of Project LEAPES is to engage students in awareness, exploration, and preparation activities related to careers in engineering, artificial intelligence, and computer science, all of which are critically important areas to national security.",
     "tags": [],
     "title": "Introduction",
     "uri": "/ks-leapes/00-introduction/index.html"
   },
   {
     "breadcrumb": "",
-    "content": "In this week we will be focusing on Computer Science and will be using the Scratch framework.",
-    "description": "In this week we will be focusing on Computer Science and will be using the Scratch framework.",
+    "content": "In this week we use the Scratch programming environment. Scratch uses block-based programming to enable student to create and share stories, games, and animations while learning the fundamentals of computer science.\nThis week’s sessions will be led by Dr. Nathan Bean of the Kansas State University Department of Computer Science.",
+    "description": "In this week we use the Scratch programming environment. Scratch uses block-based programming to enable student to create and share stories, games, and animations while learning the fundamentals of computer science.\nThis week’s sessions will be led by Dr. Nathan Bean of the Kansas State University Department of Computer Science.",
     "tags": [],
     "title": "Computer Science",
     "uri": "/ks-leapes/01-computer-science/index.html"
+  },
+  {
+    "breadcrumb": "",
+    "content": "Activities for this week center around assembling and programming Makeblock mBot educational robots.",
+    "description": "Activities for this week center around assembling and programming Makeblock mBot educational robots.",
+    "tags": [],
+    "title": "Robotics",
+    "uri": "/ks-leapes/02-robotics/index.html"
   },
   {
     "breadcrumb": "Computer Science",
@@ -25,11 +33,19 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Introduction",
-    "content": "Lorem Ipsum.",
-    "description": "Lorem Ipsum.",
+    "content": "",
+    "description": "",
     "tags": [],
     "title": "Welcome",
     "uri": "/ks-leapes/00-introduction/01-welcome/index.html"
+  },
+  {
+    "breadcrumb": "Introduction",
+    "content": "The KS-LEAPES summer camp uses a unique distributed model - schools across the state of Kansas host local camps, offering a curriculum developed and led by K-State faculty. Camp activities include a mixture of hands-on, asynchronous activities, virtual tours of research and manfacturing facilties, and synchronous discussions with K-State faculty, industry leaders, and more!\nImportant Dates June 3, 9:00am-3:00pm Teacher PD Session\nJune 8-11, 9:00am-12:00pm Computer Science Week\nJune 15-18, 9:00am-12:00pm Week 2: Robotics",
+    "description": "The KS-LEAPES summer camp uses a unique distributed model - schools across the state of Kansas host local camps, offering a curriculum developed and led by K-State faculty. Camp activities include a mixture of hands-on, asynchronous activities, virtual tours of research and manfacturing facilties, and synchronous discussions with K-State faculty, industry leaders, and more!\nImportant Dates June 3, 9:00am-3:00pm Teacher PD Session\nJune 8-11, 9:00am-12:00pm Computer Science Week",
+    "tags": [],
+    "title": "Camp Details",
+    "uri": "/ks-leapes/00-introduction/02-camp-details/index.html"
   },
   {
     "breadcrumb": "Computer Science",
@@ -73,10 +89,10 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "Lorem Ipsum.",
-    "description": "Lorem Ipsum.",
+    "content": "",
+    "description": "",
     "tags": [],
-    "title": "Hugo Starter",
+    "title": "KS LEAPES",
     "uri": "/ks-leapes/index.html"
   },
   {

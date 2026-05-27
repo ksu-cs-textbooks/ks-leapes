@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Day 3 :: Hugo Starter Template</title>
+    <title>Day 3 :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/03-day-3/index.html</link>
     <description>Activity 1: Drone Movement Builds off the drone state machine from Day 2&#xA;Drone Movement Lateral Drone Movement Rotational Drone Movement</description>
     <generator>Hugo</generator>
