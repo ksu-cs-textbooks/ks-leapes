@@ -1,6 +1,4 @@
 +++
 archetype = "home"
-title = "Hugo Starter"
+title = "KS LEAPES"
 +++
-
-Lorem Ipsum.

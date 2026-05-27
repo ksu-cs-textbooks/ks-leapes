@@ -5,7 +5,7 @@ baseURL = "https://textbooks.cs.ksu.edu/ks-leapes"
 languageCode = "en-us"
 # Site Title
 # TODO changeme
-title = "Hugo Starter Template"
+title = "KS LEAPES"
 # This setting is deprecated and should be turned off
 canonifyURLs = false
 # Allow relative URLs (not for use with subfolders)
@@ -45,14 +45,14 @@ cleanDestinationDir = true
   # This will be used in HTML meta tags, the open graph protocol and twitter
   # cards.
   # TODO changeme
-  author.name = 'Russell Feldhausen'
+  author.name = 'Nathan Bean'
 
   # The author's email address of your site.
   # Default: not set
   # This will be used in HTML meta tags, the open graph protocol and twitter
   # cards.
   # TODO changeme
-  author.emailname = 'russfeldh@gmail.com'
+  author.emailname = 'nhbean@kus.edu'
 
   # The social media image of your site.
   # Default: not set
@@ -74,7 +74,7 @@ cleanDestinationDir = true
   # This name will be used for the link to the main page in the upper section
   # of the menu. If not set, `title` from the Hugo settings will be used.
   # TODO changeme
-  linkTitle = 'Hugo Starter Template'
+  linkTitle = 'KS LEAPES'
 
   # Used color variants.
   # Default: 'auto'
@@ -240,7 +240,7 @@ cleanDestinationDir = true
   # in the pages frontmatter. This is useful if you want to give the opportunity
   # for people to create merge request for your content.
   # TODO changeme
-  editURL = 'https://github.com/ksu-cs-textbooks/hugo-starter/edit/main/content/${FilePath}'
+  editURL = 'https://github.com/ksu-cs-textbooks/ks-leapes/edit/main/content/${FilePath}'
 
   #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Search
@@ -770,7 +770,7 @@ cleanDestinationDir = true
   # This is for linking directly to the GitHub Commit where the most recent
   # edit on a page was made. 
   # TODO changeme
-  commitURL = "https://github.com/ksu-cs-textbooks/hugo-starter/commit/"
+  commitURL = "https://github.com/ksu-cs-textbooks/ks-leapes/commit/"
 
 [markup]
   # See https://gohugo.io/configuration/markup/#goldmark
