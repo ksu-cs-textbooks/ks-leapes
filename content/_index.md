@@ -3,7 +3,7 @@ archetype = "home"
 title = "KS LEAPES"
 +++
 
-Kansas LEAPES (Learning, Exploration, and Application for Prospective Engineering Students) is an innovative distributed STEM summer camp that seeks to spark interest in science, technology, engineering, and mathematics (STEM) careers among 7th–12th grade students statewide. The KS LEAPES program operates a novel distributed STEM summer camp, with local camps hosted in schools across the state, offering program developed and led by K-State faculty.
+Kansas LEAPES (Learning, Exploration, and Application for Prospective Engineering Students) seeks to spark interest in science, technology, engineering, and mathematics (STEM) careers among 7th–12th grade students statewide. The KS LEAPES program operates a novel distributed STEM summer camp, with local camps hosted in schools across the state, offering program developed and led by K-State faculty.
 
 {{% notice icon="ticket" style="primary" title="Host a Camp" %}}
 If you are interested in hosting a LEAPES site, please contact the [Rural Education Center at Kansas State University](https://coe.k-state.edu/academics/departments/rural-education-center/).
