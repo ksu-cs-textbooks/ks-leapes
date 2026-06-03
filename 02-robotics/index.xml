@@ -3,9 +3,37 @@
   <channel>
     <title>Robotics :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</link>
-    <description>Activities for this week center around assembling and programming Makeblock mBot educational robots.</description>
+    <description>Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/01-day-1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/01-day-1/index.html</guid>
+      <description>Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.&#xA;Assembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi</description>
+    </item>
+    <item>
+      <title>Day 2</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.html</guid>
+      <description>Activity 1: Angle Indicator Build this Angle Indicator&#xA;Activity 2: Measure Distance Measure distance&#xA;Activity 3: Move Distance Move distance&#xA;Activity 3: Record Sound Record Sound&#xA;Activity 4: Did you hear that? Sound Reaction&#xA;Activity 5: Emoji Display Emoji Display&#xA;Resources iPhone App - Object Detection</description>
+    </item>
+    <item>
+      <title>Day 3 Advanced</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/03-day-3/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/03-day-3/index.html</guid>
+      <description>Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”&#xA;Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Let’s Party Light Show&#xA;Activity 2: Robot Dance Robot Dance&#xA;Activity 3: Obstacle Avoidance Obstacle Avoidance</description>
+    </item>
+    <item>
+      <title>Day 4</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/04-day-4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/04-day-4/index.html</guid>
+      <description>Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part</description>
+    </item>
   </channel>
 </rss>

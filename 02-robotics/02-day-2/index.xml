@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Day 2 :: KS LEAPES</title>
+    <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.html</link>
+    <description>Activity 1: Angle Indicator Build this Angle Indicator&#xA;Activity 2: Measure Distance Measure distance&#xA;Activity 3: Move Distance Move distance&#xA;Activity 3: Record Sound Record Sound&#xA;Activity 4: Did you hear that? Sound Reaction&#xA;Activity 5: Emoji Display Emoji Display&#xA;Resources iPhone App - Object Detection</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

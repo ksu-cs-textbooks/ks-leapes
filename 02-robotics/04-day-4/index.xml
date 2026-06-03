@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Day 4 :: KS LEAPES</title>
+    <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/04-day-4/index.html</link>
+    <description>Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/04-day-4/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

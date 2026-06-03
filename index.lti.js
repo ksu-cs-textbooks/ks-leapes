@@ -17,8 +17,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "",
-    "description": "Activities for this week center around assembling and programming Makeblock mBot educational robots.",
-    "modified": "2026-05-27T12:47:03-05:00",
+    "description": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
+    "modified": "2026-06-03T02:24:13-05:00",
     "tags": [],
     "title": "Robotics",
     "uri": "/ks-leapes/02-robotics/index.html"
@@ -30,6 +30,14 @@ var relearn_lti_index = [
     "tags": [],
     "title": "Day 1",
     "uri": "/ks-leapes/01-computer-science/01-day-1/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
+    "description": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi",
+    "modified": "2026-06-03T02:24:13-05:00",
+    "tags": [],
+    "title": "Day 1",
+    "uri": "/ks-leapes/02-robotics/01-day-1/index.html"
   },
   {
     "breadcrumb": "Introduction",
@@ -56,6 +64,14 @@ var relearn_lti_index = [
     "uri": "/ks-leapes/01-computer-science/02-day-2/index.html"
   },
   {
+    "breadcrumb": "Robotics",
+    "description": "Activity 1: Angle Indicator Build this Angle Indicator\nActivity 2: Measure Distance Measure distance\nActivity 3: Move Distance Move distance\nActivity 3: Record Sound Record Sound\nActivity 4: Did you hear that? Sound Reaction\nActivity 5: Emoji Display Emoji Display\nResources iPhone App - Object Detection",
+    "modified": "2026-06-03T11:19:32-05:00",
+    "tags": [],
+    "title": "Day 2",
+    "uri": "/ks-leapes/02-robotics/02-day-2/index.html"
+  },
+  {
     "breadcrumb": "Computer Science",
     "description": "Activity 1: Drone Movement Builds off the drone state machine from Day 2\nDrone Movement Lateral Drone Movement Rotational Drone Movement",
     "modified": "2026-05-15T20:54:34+00:00",
@@ -64,12 +80,28 @@ var relearn_lti_index = [
     "uri": "/ks-leapes/01-computer-science/03-day-3/index.html"
   },
   {
+    "breadcrumb": "Robotics",
+    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”\nChristmas in June??? Want to see our Robotics Wonderland? Activity 1: Let’s Party Light Show\nActivity 2: Robot Dance Robot Dance\nActivity 3: Obstacle Avoidance Obstacle Avoidance",
+    "modified": "2026-06-03T11:19:32-05:00",
+    "tags": [],
+    "title": "Day 3 Advanced",
+    "uri": "/ks-leapes/02-robotics/03-day-3/index.html"
+  },
+  {
     "breadcrumb": "Computer Science",
     "description": "Activity 1: Wheat Growth Simulation Pt 1 Starter Project\nTutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”\nActivity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project\nWorksheet\nTutorial",
     "modified": "2026-05-18T16:03:26+00:00",
     "tags": [],
     "title": "Day 4",
     "uri": "/ks-leapes/01-computer-science/04-day-4/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
+    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
+    "modified": "2026-06-03T11:19:32-05:00",
+    "tags": [],
+    "title": "Day 4",
+    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
   },
   {
     "breadcrumb": "Computer Science",
