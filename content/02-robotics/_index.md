@@ -7,6 +7,6 @@ weight = 3
 ordinal = "2"
 +++
 
-Activities for this week center around assembling and programming [Makeblock mBot](https://www.makeblock.com/) educational robots.
+Ready to put your Scratch skills to work on a real robot? We will program an [mBot2 from Makeblock](https://www.makeblock.com/pages/mbot2-coding-robot) to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.
 
-![An assembled mBot robot](/images/mbot.jpg)
+![An assembled mBot2 robot](/images/mbot.jpg)
