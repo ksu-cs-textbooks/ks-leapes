@@ -17,6 +17,14 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
+    "content": "Ready to put your Scratch skills to the test? We will program a bunch of advanced puzzles like Pac-Man AI, Bubble Sort, and smart pathfinding path algorithms. You’ll tackle hands-on challenges to make sprites navigate mazes, sort data visually, and dodge ghosts — all with the same drag-and-drop coding blocks you already know.",
+    "description": "Ready to put your Scratch skills to the test? We will program a bunch of advanced puzzles like Pac-Man AI, Bubble Sort, and smart pathfinding path algorithms. You’ll tackle hands-on challenges to make sprites navigate mazes, sort data visually, and dodge ghosts — all with the same drag-and-drop coding blocks you already know.",
+    "tags": [],
+    "title": "Computer Science Extra",
+    "uri": "/ks-leapes/03-computer-science-extras/index.html"
+  },
+  {
+    "breadcrumb": "",
     "content": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
     "description": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
     "tags": [],
@@ -38,6 +46,38 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Day 1",
     "uri": "/ks-leapes/02-robotics/01-day-1/index.html"
+  },
+  {
+    "breadcrumb": "Computer Science Extra",
+    "content": "Activity 1 - Spirographs Spirographs Video Resources\nSpirograph Activity #2: Bubble Sorting Bubble Sort Tutorial Bubble Sort Starter File",
+    "description": "Activity 1 - Spirographs Spirographs Video Resources\nSpirograph Activity #2: Bubble Sorting Bubble Sort Tutorial Bubble Sort Starter File",
+    "tags": [],
+    "title": "Day 1",
+    "uri": "/ks-leapes/03-computer-science-extras/01-day-1/index.html"
+  },
+  {
+    "breadcrumb": "Computer Science Extra",
+    "content": "Activity 1 - Under Water Survival Under Water Survival Video Resources\nUnder Water Survival Starter File",
+    "description": "Activity 1 - Under Water Survival Under Water Survival Video Resources\nUnder Water Survival Starter File",
+    "tags": [],
+    "title": "Day 2",
+    "uri": "/ks-leapes/03-computer-science-extras/02-day-2/index.html"
+  },
+  {
+    "breadcrumb": "Computer Science Extra",
+    "content": "Activity 1 - Submarine Hex Code Decoder Submarine Hex Code Decoder Video Resources\nSubmarine Hex Code Decoder Starter File",
+    "description": "Activity 1 - Submarine Hex Code Decoder Submarine Hex Code Decoder Video Resources\nSubmarine Hex Code Decoder Starter File",
+    "tags": [],
+    "title": "Day 3",
+    "uri": "/ks-leapes/03-computer-science-extras/03-day-3/index.html"
+  },
+  {
+    "breadcrumb": "Computer Science Extra",
+    "content": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File Activity 2 - Sub Pathfinder Sub Pathfinding Video Resources\nSub Pathfinder Starter File",
+    "description": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File Activity 2 - Sub Pathfinder Sub Pathfinding Video Resources\nSub Pathfinder Starter File",
+    "tags": [],
+    "title": "Day 4",
+    "uri": "/ks-leapes/03-computer-science-extras/04-day-4/index.html"
   },
   {
     "breadcrumb": "Introduction",
