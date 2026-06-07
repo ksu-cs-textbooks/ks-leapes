@@ -3,7 +3,7 @@ archetype = "chapter"
 chapter = true
 title = "Robotics"
 pre = "<b>2. </b>"
-weight = 3
+weight = 2
 ordinal = "2"
 +++
 
