@@ -17,6 +17,14 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
+    "content": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
+    "description": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
+    "tags": [],
+    "title": "Robotics",
+    "uri": "/ks-leapes/02-robotics/index.html"
+  },
+  {
+    "breadcrumb": "",
     "content": "Ready to put your Scratch skills to the test? We will program a bunch of advanced puzzles like Pac-Man AI, Bubble Sort, and smart pathfinding path algorithms. You’ll tackle hands-on challenges to make sprites navigate mazes, sort data visually, and dodge ghosts — all with the same drag-and-drop coding blocks you already know.",
     "description": "Ready to put your Scratch skills to the test? We will program a bunch of advanced puzzles like Pac-Man AI, Bubble Sort, and smart pathfinding path algorithms. You’ll tackle hands-on challenges to make sprites navigate mazes, sort data visually, and dodge ghosts — all with the same drag-and-drop coding blocks you already know.",
     "tags": [],
@@ -25,11 +33,11 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
-    "description": "Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.",
+    "content": "Learn the basic concepts of data science and machine learning techniques through analyzing weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Getting Started Use the link below to open the starter project in Google Colab:\nOnce open, complete a bit of additional configuration:\nRun the code block at the top of the file to clone the repository and install the required libraries. Remember that all Python commands must be run within code blocks and not the terminal. See the example included in the starter notebook. The Lesson The lesson itself is broken into several parts, linked below or in the side menu.\nGather Data Clean Data Graph Data Machine Learning Teacher Guide",
+    "description": "Learn the basic concepts of data science and machine learning techniques through analyzing weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Getting Started Use the link below to open the starter project in Google Colab:\nOnce open, complete a bit of additional configuration:\nRun the code block at the top of the file to clone the repository and install the required libraries. Remember that all Python commands must be run within code blocks and not the terminal. See the example included in the starter notebook. The Lesson The lesson itself is broken into several parts, linked below or in the side menu.",
     "tags": [],
-    "title": "Robotics",
-    "uri": "/ks-leapes/02-robotics/index.html"
+    "title": "Data Science",
+    "uri": "/ks-leapes/04-data-science/index.html"
   },
   {
     "breadcrumb": "Computer Science",
@@ -80,6 +88,14 @@ var relearn_searchindex = [
     "uri": "/ks-leapes/03-computer-science-extras/04-day-4/index.html"
   },
   {
+    "breadcrumb": "Data Science",
+    "content": "Video Walkthrough Resources Slides Kansas Mesonet NOAA Weather Data Teacher Notes You can expand upon this section by linking it to discussions around local weather patterns or a larger module on the climate and weather in general. Students could be encouraged to collect their own weather data for a time period and use that data in this activity (with a bit of formatting help). While this activity is rooted in weather data, the same basic process can be used to analyze data of all types.",
+    "description": "Video Walkthrough Resources Slides Kansas Mesonet NOAA Weather Data Teacher Notes You can expand upon this section by linking it to discussions around local weather patterns or a larger module on the climate and weather in general. Students could be encouraged to collect their own weather data for a time period and use that data in this activity (with a bit of formatting help). While this activity is rooted in weather data, the same basic process can be used to analyze data of all types.",
+    "tags": [],
+    "title": "Gather Data",
+    "uri": "/ks-leapes/04-data-science/01-gather-data/index.html"
+  },
+  {
     "breadcrumb": "Introduction",
     "content": "",
     "description": "",
@@ -94,6 +110,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Camp Details",
     "uri": "/ks-leapes/00-introduction/02-camp-details/index.html"
+  },
+  {
+    "breadcrumb": "Data Science",
+    "content": "Video Walkthrough Resources Slides clean_data.py on GitHub Teacher Notes When doing this as part of an outreach activity, often this section is just a discussion and the full clean_data.py script is provided to students so they can quickly clean their raw data and move ahead to the next part. However, this can easily be expanded to a larger activity to actually build and test the clean_data.py script or perform additional data cleaning processes in a spreadsheet program.\nAlso, it is worth noting that the clean_data.py script as provided has a commented out line that does not process any missing data (denoted by an \"M\" in the Kansas Mesonet data) - that will be handled later in the lesson when it becomes an issue.",
+    "description": "Video Walkthrough Resources Slides clean_data.py on GitHub Teacher Notes When doing this as part of an outreach activity, often this section is just a discussion and the full clean_data.py script is provided to students so they can quickly clean their raw data and move ahead to the next part. However, this can easily be expanded to a larger activity to actually build and test the clean_data.py script or perform additional data cleaning processes in a spreadsheet program.",
+    "tags": [],
+    "title": "Clean Data",
+    "uri": "/ks-leapes/04-data-science/02-clean-data/index.html"
   },
   {
     "breadcrumb": "Computer Science",
@@ -128,6 +152,14 @@ var relearn_searchindex = [
     "uri": "/ks-leapes/02-robotics/03-day-3/index.html"
   },
   {
+    "breadcrumb": "Data Science",
+    "content": "Video Walkthrough Resources Slides weather.ipynb solution on GitHub Plotly Express Planting Temperatures from Riley County Extension Mesonet Corn Production Handbook Teacher Notes This section is the main interactive part of the lesson. Students should be given plenty of time to type in the code to load the data and create at least the first graph of the data. Depending on time and interest, the activity can slowly shift from having students write the code to having students follow along with the example solution to add more complexity to the graphs and answer the underlying questions posed at the beginning of the lesson.",
+    "description": "Video Walkthrough Resources Slides weather.ipynb solution on GitHub Plotly Express Planting Temperatures from Riley County Extension Mesonet Corn Production Handbook Teacher Notes This section is the main interactive part of the lesson. Students should be given plenty of time to type in the code to load the data and create at least the first graph of the data. Depending on time and interest, the activity can slowly shift from having students write the code to having students follow along with the example solution to add more complexity to the graphs and answer the underlying questions posed at the beginning of the lesson.",
+    "tags": [],
+    "title": "Graph Data",
+    "uri": "/ks-leapes/04-data-science/03-graph-data/index.html"
+  },
+  {
     "breadcrumb": "Computer Science",
     "content": "Activity 1: Wheat Growth Simulation Pt 1 Starter Project\nTutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”\nActivity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project\nWorksheet\nTutorial Manhattan Weather Data Example\nActivity 4: Growth Stages Continue to use Wheat Growth Simulation Scratch Project Tutorial",
     "description": "Activity 1: Wheat Growth Simulation Pt 1 Starter Project\nTutorial Activity 2: Virtual Mesonet Visit https://kstate.designori.net/ and select “KSU Mesonet”\nActivity 3: Growing Degree Days Continue to use Wheat Growth Simulation Scratch Project\nWorksheet\nTutorial",
@@ -144,12 +176,28 @@ var relearn_searchindex = [
     "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
   },
   {
+    "breadcrumb": "Data Science",
+    "content": "Video Walkthrough Resources Slides ai.ipynb on GitHub scikit-learn scikit-learn Linear Regression scikit-learn Polynomial Regression scikit-learn Random Forest Model Teacher Notes This section is mainly a deeper demonstration of some machine learning concepts and models that can be used in Python. The goal is to use the students’ current understanding of data science concepts and expand upon that using some more advanced techniques. The actual techniques presented here are mostly for demonstration purposes and aren’t really meant to be statistically valid for the input data (though they do produce some interesting results nonetheless). AI coding tools are a great way to give students the power to explore this data in more detail if they are available (most of the model solution code in this section was generated using an AI tool).",
+    "description": "Video Walkthrough Resources Slides ai.ipynb on GitHub scikit-learn scikit-learn Linear Regression scikit-learn Polynomial Regression scikit-learn Random Forest Model Teacher Notes This section is mainly a deeper demonstration of some machine learning concepts and models that can be used in Python. The goal is to use the students’ current understanding of data science concepts and expand upon that using some more advanced techniques. The actual techniques presented here are mostly for demonstration purposes and aren’t really meant to be statistically valid for the input data (though they do produce some interesting results nonetheless). AI coding tools are a great way to give students the power to explore this data in more detail if they are available (most of the model solution code in this section was generated using an AI tool).",
+    "tags": [],
+    "title": "Machine Learning",
+    "uri": "/ks-leapes/04-data-science/04-machine-learning/index.html"
+  },
+  {
     "breadcrumb": "Computer Science",
     "content": "Scrolling Shooter Tutorial Starter Project\nPart 1 - P38 Animation Part 2 - P38 Movement Part 3 - Player Bullets Part 4 - Cloning Player Bullets Part 5 - Adding an Enemy Plane Part 6 - Bullet Sounds Part 7 - Player/Enemy Collisions Part 8 - Player Explosions Part 9 - Enemy Explosions Part 10 - Player Lives Part 11 - Islands in the Sea Part 12 - Evasive Maneuvers",
     "description": "Scrolling Shooter Tutorial Starter Project\nPart 1 - P38 Animation Part 2 - P38 Movement Part 3 - Player Bullets",
     "tags": [],
     "title": "CS Extras",
     "uri": "/ks-leapes/01-computer-science/05-cs-extras/index.html"
+  },
+  {
+    "breadcrumb": "Data Science",
+    "content": "A STEM outreach activity using data science and machine learning techniques to analyze weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Teacher Introduction Video Starter Code The starter code can be found on GitHub. This repository is a template that can be easily forked by students or teachers to their own accounts.\nThe files can also be downloaded as ZIP file from the 1.0 Release and then redistributed through a course LMS or other process.\nTeacher Setup For students to follow along with this activity, they need access to system with Python and Jupyter Notebooks installed and available. There are many possible configurations that work, which are discussed below. If you have questions or need assistance setting things up, reach out to altcs AT ksu DOT edu and we’ll do our best to help!\nSimple - Local Installation The simplest setup is to have Python and Visual Studio Code installed on the system locally. Then, within Visual Studio Code, install the Python and Jupyter extensions. If the folder containing the starter files are opened in Visual Studio Code, you should be prompted to install those extensions if they aren’t already installed.\nDevcontainers and GitHub Codespaces The starter files also contain a .devcontainer folder that can be used to create a local [Development Container] using Docker, or a cloud development environment using GitHub Codespaces. That environment will contain the Python installation and handle installing the required extensions and libraries. Students can create their own copies of the starter code using the template repository on GitHub.\nCodio The Codio platform supports Jupyter Notebooks and could be used to deliver this lesson. Teachers will need to configure the lesson in Codio for students to use.\nGoogle Colab Google Colab is another possible option for students to engage with this lesson online. Students can start by clicking on the link below to open the starter file in Google Colab (the same link can be found on GitHub).\nIt requires a bit of additional configuration:\nRun the code block at the top of the file to clone the repository and install the required libraries. Remember that all Python commands must be run within code blocks and not the terminal. See the example included in the starter notebook. Model Solution The starter repository contains a solution folder that contains the intended model solution at the end of the activity. Since this activity is meant to be exploratory in nature, it can be helpful to give students an option to either write the code themselves or follow along with a model solution and make changes to the existing code. Teachers may choose to remove that folder if they redistribute these materials.",
+    "description": "A STEM outreach activity using data science and machine learning techniques to analyze weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Teacher Introduction Video Starter Code The starter code can be found on GitHub. This repository is a template that can be easily forked by students or teachers to their own accounts.",
+    "tags": [],
+    "title": "Teacher Guide",
+    "uri": "/ks-leapes/04-data-science/05-teacher-guide/index.html"
   },
   {
     "breadcrumb": "",

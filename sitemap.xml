@@ -9,12 +9,16 @@
     <lastmod>2026-05-27T12:47:03-05:00</lastmod>
   </url>
   <url>
-    <loc>https://textbooks.cs.ksu.edu/ks-leapes/03-computer-science-extras/index.html</loc>
-    <lastmod>2026-06-07T15:48:05+00:00</lastmod>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
   </url>
   <url>
-    <loc>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</loc>
-    <lastmod>2026-06-03T02:24:13-05:00</lastmod>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/03-computer-science-extras/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
   </url>
   <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/01-day-1/index.html</loc>
@@ -41,12 +45,20 @@
     <lastmod>2026-06-07T15:56:01+00:00</lastmod>
   </url>
   <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/01-gather-data/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/01-welcome/index.html</loc>
     <lastmod>2026-05-27T12:47:03-05:00</lastmod>
   </url>
   <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/00-introduction/02-camp-details/index.html</loc>
     <lastmod>2026-05-27T12:47:03-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/02-clean-data/index.html</loc>
+    <lastmod>2026-06-07T17:39:01-05:00</lastmod>
   </url>
   <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/02-day-2/index.html</loc>
@@ -65,6 +77,10 @@
     <lastmod>2026-06-03T11:19:32-05:00</lastmod>
   </url>
   <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/03-graph-data/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/04-day-4/index.html</loc>
     <lastmod>2026-05-18T16:03:26+00:00</lastmod>
   </url>
@@ -73,8 +89,16 @@
     <lastmod>2026-06-03T11:19:32-05:00</lastmod>
   </url>
   <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/04-machine-learning/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/01-computer-science/05-cs-extras/index.html</loc>
     <lastmod>2026-05-20T13:52:20-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/05-teacher-guide/index.html</loc>
+    <lastmod>2026-06-07T17:30:31-05:00</lastmod>
   </url>
   <url>
     <loc>https://textbooks.cs.ksu.edu/ks-leapes/categories/index.html</loc>

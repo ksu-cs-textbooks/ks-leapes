@@ -22,6 +22,13 @@
       <description>In this week we use the Scratch programming environment. Scratch uses block-based programming to enable student to create and share stories, games, and animations while learning the fundamentals of computer science.&#xA;This week’s sessions will be led by Dr. Nathan Bean of the Kansas State University Department of Computer Science.</description>
     </item>
     <item>
+      <title>Robotics</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</guid>
+      <description>Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.</description>
+    </item>
+    <item>
       <title>Computer Science Extra</title>
       <link>https://textbooks.cs.ksu.edu/ks-leapes/03-computer-science-extras/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,11 +36,11 @@
       <description>Ready to put your Scratch skills to the test? We will program a bunch of advanced puzzles like Pac-Man AI, Bubble Sort, and smart pathfinding path algorithms. You’ll tackle hands-on challenges to make sprites navigate mazes, sort data visually, and dodge ghosts — all with the same drag-and-drop coding blocks you already know.</description>
     </item>
     <item>
-      <title>Robotics</title>
-      <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</link>
+      <title>Data Science</title>
+      <link>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/index.html</guid>
-      <description>Ready to put your Scratch skills to work on a real robot? We will program an mBot2 from Makeblock to move, dodge obstacles, follow lines, and tackle hands-on challenges — all with the same drag-and-drop coding blocks you already know.</description>
+      <guid>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/index.html</guid>
+      <description>Learn the basic concepts of data science and machine learning techniques through analyzing weather data.&#xA;Time: 60 - 120 minutes+ Age: Middle School and Up Getting Started Use the link below to open the starter project in Google Colab:&#xA;Once open, complete a bit of additional configuration:&#xA;Run the code block at the top of the file to clone the repository and install the required libraries. Remember that all Python commands must be run within code blocks and not the terminal. See the example included in the starter notebook. The Lesson The lesson itself is broken into several parts, linked below or in the side menu.</description>
     </item>
   </channel>
 </rss>

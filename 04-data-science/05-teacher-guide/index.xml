@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teacher Guide :: KS LEAPES</title>
+    <link>https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/05-teacher-guide/index.html</link>
+    <description>A STEM outreach activity using data science and machine learning techniques to analyze weather data.&#xA;Time: 60 - 120 minutes+ Age: Middle School and Up Teacher Introduction Video Starter Code The starter code can be found on GitHub. This repository is a template that can be easily forked by students or teachers to their own accounts.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/04-data-science/05-teacher-guide/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
