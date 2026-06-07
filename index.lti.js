@@ -58,7 +58,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Computer Science Extra",
     "description": "Activity 1 - Under Water Survival Under Water Survival Video Resources\nUnder Water Survival Starter File",
-    "modified": "2026-06-07T15:48:05+00:00",
+    "modified": "2026-06-07T15:56:01+00:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/03-computer-science-extras/02-day-2/index.html"
@@ -66,7 +66,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Computer Science Extra",
     "description": "Activity 1 - Submarine Hex Code Decoder Submarine Hex Code Decoder Video Resources\nSubmarine Hex Code Decoder Starter File",
-    "modified": "2026-06-07T15:48:05+00:00",
+    "modified": "2026-06-07T15:56:01+00:00",
     "tags": [],
     "title": "Day 3",
     "uri": "/ks-leapes/03-computer-science-extras/03-day-3/index.html"
@@ -74,7 +74,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Computer Science Extra",
     "description": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File Activity 2 - Sub Pathfinder Sub Pathfinding Video Resources\nSub Pathfinder Starter File",
-    "modified": "2026-06-07T15:48:05+00:00",
+    "modified": "2026-06-07T15:56:01+00:00",
     "tags": [],
     "title": "Day 4",
     "uri": "/ks-leapes/03-computer-science-extras/04-day-4/index.html"
