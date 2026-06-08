@@ -74,7 +74,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Computer Science Extra",
     "description": "Activity 1 - Submarine Hex Code Decoder Submarine Hex Code Decoder Video Resources\nSubmarine Hex Code Decoder Starter File",
-    "modified": "2026-06-07T15:56:01+00:00",
+    "modified": "2026-06-08T22:13:34+00:00",
     "tags": [],
     "title": "Day 3",
     "uri": "/ks-leapes/03-computer-science-extras/03-day-3/index.html"
