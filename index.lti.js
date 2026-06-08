@@ -58,7 +58,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Computer Science Extra",
     "description": "Activity 1 - Spirographs Spirographs Video Resources\nSpirograph Activity #2: Bubble Sorting Bubble Sort Tutorial Bubble Sort Starter File",
-    "modified": "2026-06-07T15:48:05+00:00",
+    "modified": "2026-06-08T20:18:17+00:00",
     "tags": [],
     "title": "Day 1",
     "uri": "/ks-leapes/03-computer-science-extras/01-day-1/index.html"
