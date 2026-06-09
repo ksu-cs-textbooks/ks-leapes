@@ -65,8 +65,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Computer Science Extra",
-    "description": "Activity 1 - Under Water Survival Under Water Survival Video Resources\nUnder Water Survival Starter File",
-    "modified": "2026-06-07T15:56:01+00:00",
+    "description": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File",
+    "modified": "2026-06-09T17:18:50+00:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/03-computer-science-extras/02-day-2/index.html"
@@ -81,8 +81,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Computer Science Extra",
-    "description": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File Activity 2 - Sub Pathfinder Sub Pathfinding Video Resources\nSub Pathfinder Starter File",
-    "modified": "2026-06-09T02:48:06+00:00",
+    "description": "Activity 1 - Sub Pathfinder Sub Pathfinding Video Resources\nSub Pathfinder Starter File",
+    "modified": "2026-06-09T17:18:50+00:00",
     "tags": [],
     "title": "Day 4",
     "uri": "/ks-leapes/03-computer-science-extras/04-day-4/index.html"
