@@ -129,8 +129,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Activity 1: Angle Indicator Build this Angle Indicator\nActivity 2: Measure Distance Measure distance\nActivity 3: Move Distance Move distance\nActivity 3: Record Sound Record Sound\nActivity 4: Did you hear that? Sound Reaction\nActivity 5: Emoji Display Emoji Display\nResources iPhone App - Object Detection",
-    "modified": "2026-06-03T11:19:32-05:00",
+    "description": "Activity 1: Angle Indicator \u003c \u003e\nBuild this Angle Indicator\nActivity 2: Measure Distance Measure distance \u003c \u003e\nActivity 3: Move Distance Move distance \u003c \u003e\nActivity 3: Record Sound Record Sound\nActivity 4: Did you hear that? Sound Reaction",
+    "modified": "2026-06-11T11:44:05-05:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/02-robotics/02-day-2/index.html"
