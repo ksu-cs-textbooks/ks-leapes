@@ -129,8 +129,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Activity 1: Angle Indicator \u003c \u003e\nBuild this Angle Indicator\nActivity 2: Measure Distance Measure distance \u003c \u003e\nActivity 3: Move Distance Move distance \u003c \u003e\nActivity 3: Record Sound Record Sound\nActivity 4: Did you hear that? Sound Reaction",
-    "modified": "2026-06-11T11:44:05-05:00",
+    "description": "Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator",
+    "modified": "2026-06-13T17:55:47-05:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/02-robotics/02-day-2/index.html"
@@ -182,6 +182,14 @@ var relearn_lti_index = [
     "tags": [],
     "title": "Machine Learning",
     "uri": "/ks-leapes/04-data-science/04-machine-learning/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
+    "description": "Resources\nmBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How to Apply a Created Model to a Project Activity 3: Test the Project How to Apply a Created Model to a Project Activity 4: Robot Dance How to Dance with Your Robot",
+    "modified": "2026-06-13T17:55:47-05:00",
+    "tags": [],
+    "title": "AI Advanced Lessons",
+    "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"
   },
   {
     "breadcrumb": "Computer Science",

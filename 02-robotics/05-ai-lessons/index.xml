@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Advanced Lessons :: KS LEAPES</title>
+    <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/05-ai-lessons/index.html</link>
+    <description>Resources&#xA;mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How to Apply a Created Model to a Project Activity 3: Test the Project How to Apply a Created Model to a Project Activity 4: Robot Dance How to Dance with Your Robot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/05-ai-lessons/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

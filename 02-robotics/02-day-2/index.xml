@@ -3,7 +3,7 @@
   <channel>
     <title>Day 2 :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.html</link>
-    <description>Activity 1: Angle Indicator &lt; &gt;&#xA;Build this Angle Indicator&#xA;Activity 2: Measure Distance Measure distance &lt; &gt;&#xA;Activity 3: Move Distance Move distance &lt; &gt;&#xA;Activity 3: Record Sound Record Sound&#xA;Activity 4: Did you hear that? Sound Reaction</description>
+    <description>Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.xml" rel="self" type="application/rss+xml" />
