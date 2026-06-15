@@ -185,8 +185,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance",
-    "modified": "2026-06-15T01:06:04-05:00",
+    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
+    "modified": "2026-06-15T01:21:32-05:00",
     "tags": [],
     "title": "AI Advanced Lessons",
     "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"

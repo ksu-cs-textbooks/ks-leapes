@@ -3,7 +3,7 @@
   <channel>
     <title>AI Advanced Lessons :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/05-ai-lessons/index.html</link>
-    <description>Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance</description>
+    <description>Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/05-ai-lessons/index.xml" rel="self" type="application/rss+xml" />
