@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Day 3 Advanced :: KS LEAPES</title>
+    <title>Day 3 :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/03-day-3/index.html</link>
-    <description>Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”&#xA;Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Let’s Party Light Show&#xA;Activity 2: Robot Dance Robot Dance&#xA;Activity 3: Obstacle Avoidance Obstacle Avoidance</description>
+    <description>Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”&#xA;Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/03-day-3/index.xml" rel="self" type="application/rss+xml" />

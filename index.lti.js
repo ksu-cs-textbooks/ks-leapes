@@ -129,8 +129,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator",
-    "modified": "2026-06-13T17:55:47-05:00",
+    "description": "Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow",
+    "modified": "2026-06-15T00:57:13-05:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/02-robotics/02-day-2/index.html"
@@ -145,10 +145,10 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”\nChristmas in June??? Want to see our Robotics Wonderland? Activity 1: Let’s Party Light Show\nActivity 2: Robot Dance Robot Dance\nActivity 3: Obstacle Avoidance Obstacle Avoidance",
-    "modified": "2026-06-03T11:19:32-05:00",
+    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”\nChristmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance",
+    "modified": "2026-06-15T00:57:13-05:00",
     "tags": [],
-    "title": "Day 3 Advanced",
+    "title": "Day 3",
     "uri": "/ks-leapes/02-robotics/03-day-3/index.html"
   },
   {
@@ -168,14 +168,6 @@ var relearn_lti_index = [
     "uri": "/ks-leapes/01-computer-science/04-day-4/index.html"
   },
   {
-    "breadcrumb": "Robotics",
-    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
-    "modified": "2026-06-03T11:19:32-05:00",
-    "tags": [],
-    "title": "Day 4",
-    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
-  },
-  {
     "breadcrumb": "Data Science",
     "description": "Video Walkthrough Resources Slides ai.ipynb on GitHub scikit-learn scikit-learn Linear Regression scikit-learn Polynomial Regression scikit-learn Random Forest Model Teacher Notes This section is mainly a deeper demonstration of some machine learning concepts and models that can be used in Python. The goal is to use the students’ current understanding of data science concepts and expand upon that using some more advanced techniques. The actual techniques presented here are mostly for demonstration purposes and aren’t really meant to be statistically valid for the input data (though they do produce some interesting results nonetheless). AI coding tools are a great way to give students the power to explore this data in more detail if they are available (most of the model solution code in this section was generated using an AI tool).",
     "modified": "2026-06-07T17:30:31-05:00",
@@ -185,8 +177,16 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Resources\nmBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How to Apply a Created Model to a Project Activity 3: Test the Project How to Apply a Created Model to a Project Activity 4: Robot Dance How to Dance with Your Robot",
-    "modified": "2026-06-13T17:55:47-05:00",
+    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
+    "modified": "2026-06-15T00:57:13-05:00",
+    "tags": [],
+    "title": "Robot Arm Activities",
+    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
+    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance",
+    "modified": "2026-06-15T00:57:13-05:00",
     "tags": [],
     "title": "AI Advanced Lessons",
     "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"

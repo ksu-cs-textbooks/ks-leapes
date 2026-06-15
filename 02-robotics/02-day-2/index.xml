@@ -3,7 +3,7 @@
   <channel>
     <title>Day 2 :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.html</link>
-    <description>Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator</description>
+    <description>Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/02-day-2/index.xml" rel="self" type="application/rss+xml" />
