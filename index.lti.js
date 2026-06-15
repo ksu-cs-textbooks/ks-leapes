@@ -130,7 +130,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Robotics",
     "description": "Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow",
-    "modified": "2026-06-15T01:43:53-05:00",
+    "modified": "2026-06-15T01:57:18-05:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/02-robotics/02-day-2/index.html"
@@ -178,7 +178,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Robotics",
     "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
-    "modified": "2026-06-15T00:57:13-05:00",
+    "modified": "2026-06-15T01:57:18-05:00",
     "tags": [],
     "title": "Robot Arm Activities",
     "uri": "/ks-leapes/02-robotics/04-day-4/index.html"

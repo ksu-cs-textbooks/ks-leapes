@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="print">
   <head>
     <meta charset="utf-8">
@@ -18,11 +19,11 @@
     <meta property="og:locale" content="en_us">
     <meta property="og:type" content="article">
     <meta property="article:section" content="Robotics">
-    <meta property="article:modified_time" content="2026-06-15T01:43:53-05:00">
+    <meta property="article:modified_time" content="2026-06-15T01:57:18-05:00">
     <meta property="og:image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
     <meta itemprop="name" content="Day 2 :: KS LEAPES">
     <meta itemprop="description" content="Activity 1: Obstacle Avoidance Obstacle Avoidance YouTube Video Activity 2: Object Follow Object Follow YouTube Video Activity 3: Line Follow Activity 4: Line Following with LEDs Line Following and change LEDs">
-    <meta itemprop="dateModified" content="2026-06-15T01:43:53-05:00">
+    <meta itemprop="dateModified" content="2026-06-15T01:57:18-05:00">
     <meta itemprop="wordCount" content="31">
     <meta itemprop="image" content="https://textbooks.cs.ksu.edu/ks-leapes/images/hero.png">
     <title>Day 2 :: KS LEAPES</title>
@@ -30,26 +31,26 @@
     <link href="/ks-leapes/02-robotics/02-day-2/index.xml" rel="alternate" type="application/rss+xml" title="Day 2 :: KS LEAPES">
     <link href="/ks-leapes/02-robotics/02-day-2/tele.html" rel="alternate" type="text/html" title="Day 2 :: KS LEAPES">
     <link href="/ks-leapes/02-robotics/02-day-2/embed.html" rel="alternate" type="text/html" title="Day 2 :: KS LEAPES">
-    <link href="/ks-leapes/css/auto-complete/auto-complete.min.css?1781505856" rel="stylesheet">
-    <script src="/ks-leapes/js/auto-complete/auto-complete.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/search-lunr.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/search.min.js?1781505856" defer></script>
+    <link href="/ks-leapes/css/auto-complete/auto-complete.min.css?1781506664" rel="stylesheet">
+    <script src="/ks-leapes/js/auto-complete/auto-complete.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/search-lunr.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/search.min.js?1781506664" defer></script>
     <script>
       window.relearn = window.relearn || {};
-      window.relearn.index_js_url="/ks-leapes/searchindex.en.js?1781505856";
+      window.relearn.index_js_url="/ks-leapes/searchindex.en.js?1781506664";
     </script>
-    <script src="/ks-leapes/js/lunr/lunr.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/lunr/lunr.stemmer.support.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/lunr/lunr.multi.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/lunr/lunr.en.min.js?1781505856" defer></script>
+    <script src="/ks-leapes/js/lunr/lunr.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/lunr/lunr.stemmer.support.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/lunr/lunr.multi.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/lunr/lunr.en.min.js?1781506664" defer></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.contentLangs=['en'];
     </script>
-    <link href="/ks-leapes/fonts/fontawesome/css/fontawesome-all.min.css?1781505856" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/ks-leapes/fonts/fontawesome/css/fontawesome-all.min.css?1781505856" rel="stylesheet"></noscript>
-    <link href="/ks-leapes/css/perfect-scrollbar/perfect-scrollbar.min.css?1781505856" rel="stylesheet">
-    <link href="/ks-leapes/css/theme.min.css?1781505856" rel="stylesheet">
-    <link href="/ks-leapes/css/format-print.min.css?1781505856" rel="stylesheet" id="R-format-style">
+    <link href="/ks-leapes/fonts/fontawesome/css/fontawesome-all.min.css?1781506664" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/ks-leapes/fonts/fontawesome/css/fontawesome-all.min.css?1781506664" rel="stylesheet"></noscript>
+    <link href="/ks-leapes/css/perfect-scrollbar/perfect-scrollbar.min.css?1781506664" rel="stylesheet">
+    <link href="/ks-leapes/css/theme.min.css?1781506664" rel="stylesheet">
+    <link href="/ks-leapes/css/format-print.min.css?1781506664" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -108,58 +109,17 @@
       window.relearn.initVariant();
       window.relearn.markVariant();
     </script>
-    <link href="/ks-leapes/css/custom.css?1781505856" rel="stylesheet">
+    <link href="/ks-leapes/css/custom.css?1781506664" rel="stylesheet">
   </head>
   <body class="mobile-support print" data-url="/ks-leapes/02-robotics/02-day-2/index.html">
+    
+    <div id="tele" class="tele mirror">
+    
     <div id="R-body" class="default-animation">
       <div id="R-body-overlay"></div>
-      <nav id="R-topbar">
-        <div class="topbar-wrapper">
-          <div class="topbar-sidebar-divider"></div>
-          <div class="topbar-area topbar-area-start" data-area="start">
-            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
-            </div>
-            <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button>
-              <div class="topbar-content">
-                <div class="topbar-content-wrapper">
-<nav class="TableOfContents">
-  <ul>
-    <li><a href="#activity-1-obstacle-avoidance">Activity 1: Obstacle Avoidance</a></li>
-    <li><a href="#activity-2-object-follow">Activity 2: Object Follow</a></li>
-    <li><a href="#activity-3-line-follow">Activity 3: Line Follow</a></li>
-    <li><a href="#activity-4-line-following-with-leds">Activity 4: Line Following with LEDs</a></li>
-  </ul>
-</nav>
-                </div>
-              </div>
-            </div>
-          </div>
-          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class="a11y-only"><a itemprop="item" href="/ks-leapes/index.html"><span itemprop="name">KS LEAPES</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/ks-leapes/02-robotics/index.html"><span itemprop="name">Robotics</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">Day 2</span><meta itemprop="position" content="3"></li>
-          </ol>
-          <div class="topbar-area topbar-area-end" data-area="end">
-            <div class="topbar-button topbar-button-edit" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="https://github.com/ksu-cs-textbooks/ks-leapes/edit/main/content/02-robotics/02-day-2.md" rel="external" target="_blank" title="Edit (CTRL+ALT+w)"><i class="fa-fw fas fa-pen"></i></a>
-            </div>
-            <div class="topbar-button topbar-button-print" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/02-day-2/index.print.html" title="Print whole chapter (CTRL+ALT+p)"><i class="fa-fw fas fa-print"></i></a>
-            </div>
-            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/01-day-1/index.html" title="Day 1 (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
-            </div>
-            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/03-day-3/index.html" title="Day 3 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
-            </div>
-            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button>
-              <div class="topbar-content">
-                <div class="topbar-content-wrapper">
-                  <div class="topbar-area topbar-area-more" data-area="more">
-            <div class="topbar-button topbar-button-embed" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/02-day-2/embed.html" title="Embeddable Version"><i class="fa-fw fas fa-expand-arrows-alt"></i></a>
-            </div>
-            <div class="topbar-button topbar-button-tele" data-content-empty="disable" data-width-s="area-more" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/ks-leapes/02-robotics/02-day-2/tele.html" title="Teleprompter View"><i class="fa-fw fas fa-tv"></i></a>
-            </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </nav>
+      
+      
+      
       <div id="R-main-overlay"></div>
       <main id="R-body-inner" class="highlightable 02-robotics" tabindex="-1">
         <div class="flex-block-wrapper">
@@ -173,11 +133,11 @@
 <ul>
 <li>Obstacle Avoidance
 
-<a href="https://www.youtube.com/watch?v=96Y5IlFoyH4">YouTube Video</a>
+<a href="https://www.youtube.com/watch?v=RqOTEoEsyTs">YouTube Video</a>
 </li>
 </ul>
-<p><a href="#R-image-721dbbc60eb7ca0794d5238456954984" class="lightbox-link"><img alt="Obstacle Avoidance" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Obstacle-Avoidance.png" style=" height: auto; width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-721dbbc60eb7ca0794d5238456954984"><img alt="Obstacle Avoidance" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Obstacle-Avoidance.png"></a></p>
+<p><a href="#R-image-9fa816316728a63782c6f663f51edccd" class="lightbox-link"><img alt="Obstacle Avoidance" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Obstacle-Avoidance.png" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-9fa816316728a63782c6f663f51edccd"><img alt="Obstacle Avoidance" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Obstacle-Avoidance.png"></a></p>
 <h2 id="activity-2-object-follow">Activity 2: Object Follow</h2>
 <ul>
 <li>Object Follow
@@ -185,16 +145,16 @@
 <a href="https://www.youtube.com/watch?v=qwYxwDVW-LA">YouTube Video</a>
 </li>
 </ul>
-<p><a href="#R-image-e6b79e494848eaeec2f220c9b0a17796" class="lightbox-link"><img alt="Object Follow" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Object-Follow.png" style=" height: auto; width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-e6b79e494848eaeec2f220c9b0a17796"><img alt="Object Follow" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Object-Follow.png"></a></p>
+<p><a href="#R-image-9d14431c001a3f92e50ee7f26724ae87" class="lightbox-link"><img alt="Object Follow" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Object-Follow.png" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-9d14431c001a3f92e50ee7f26724ae87"><img alt="Object Follow" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Object-Follow.png"></a></p>
 <h2 id="activity-3-line-follow">Activity 3: Line Follow</h2>
-<p><a href="#R-image-640c58e8e14cf32cc24ee44d1f5d4689" class="lightbox-link"><img alt="Line Follow" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Line-Follow.png" style=" height: auto; width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-640c58e8e14cf32cc24ee44d1f5d4689"><img alt="Line Follow" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Line-Follow.png"></a></p>
+<p><a href="#R-image-60bb1544e6700ce6e90f26b8ada6716a" class="lightbox-link"><img alt="Line Follow" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Line-Follow.png" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-60bb1544e6700ce6e90f26b8ada6716a"><img alt="Line Follow" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Line-Follow.png"></a></p>
 <h2 id="activity-4-line-following-with-leds">Activity 4: Line Following with LEDs</h2>
 <ul>
 <li>Line Following and change LEDs
-<a href="#R-image-72d71d7635ef03ff2ff7533219a12663" class="lightbox-link"><img alt="Line Following with LEDs" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Line-Following-LEDs.png" style=" height: auto; width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-72d71d7635ef03ff2ff7533219a12663"><img alt="Line Following with LEDs" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Line-Following-LEDs.png"></a></li>
+<a href="#R-image-4a78dd088d093b11f97e4cb9f706ca37" class="lightbox-link"><img alt="Line Following with LEDs" class="border lazy lightbox figure-image" loading="lazy" src="/ks-leapes/images/Line-Following-LEDs.png" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-4a78dd088d093b11f97e4cb9f706ca37"><img alt="Line Following with LEDs" class="border lazy lightbox lightbox-image" loading="lazy" src="/ks-leapes/images/Line-Following-LEDs.png"></a></li>
 </ul>
 
   <footer class="footline">
@@ -202,17 +162,17 @@
 </article>
         </div>
       </main>
-<div class="git-footer">
-  <p class="theme-version-footer">8.0.0</p>
-<p>Last modified by:
-              <i class='fa-fw fas fa-user'></i> KSU-Chad
-              <i class='fas fa-calendar'></i> <a href="https://github.com/ksu-cs-textbooks/ks-leapes/commit/9df24539b7f0f10c871054492e28aaf4c9886834">Jun 15, 2026</a>
-</p>
-
-</div>
+      
+      
+      
     </div>
-    <script src="/ks-leapes/js/clipboard/clipboard.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/perfect-scrollbar/perfect-scrollbar.min.js?1781505856" defer></script>
-    <script src="/ks-leapes/js/theme.min.js?1781505856" defer></script>
+    <script src="/ks-leapes/js/clipboard/clipboard.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/perfect-scrollbar/perfect-scrollbar.min.js?1781506664" defer></script>
+    <script src="/ks-leapes/js/theme.min.js?1781506664" defer></script>
+      
+      
+      
+    </div> 
+  <script src="/ks-leapes/js/tele-scroll.min.js?1781506664" defer></script>
   </body>
 </html>
