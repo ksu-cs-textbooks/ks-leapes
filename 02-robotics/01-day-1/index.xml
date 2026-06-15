@@ -3,7 +3,7 @@
   <channel>
     <title>Day 1 :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/01-day-1/index.html</link>
-    <description>Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.&#xA;Assembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi</description>
+    <description>Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.&#xA;Assembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi Activity 3: Let’s MOVE! ⚙️ Motors and Wheels</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/01-day-1/index.xml" rel="self" type="application/rss+xml" />

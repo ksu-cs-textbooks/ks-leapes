@@ -49,8 +49,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi",
-    "modified": "2026-06-03T02:24:13-05:00",
+    "description": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi Activity 3: Let’s MOVE! ⚙️ Motors and Wheels",
+    "modified": "2026-06-15T01:43:53-05:00",
     "tags": [],
     "title": "Day 1",
     "uri": "/ks-leapes/02-robotics/01-day-1/index.html"
@@ -130,7 +130,7 @@ var relearn_lti_index = [
   {
     "breadcrumb": "Robotics",
     "description": "Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow",
-    "modified": "2026-06-15T00:57:13-05:00",
+    "modified": "2026-06-15T01:43:53-05:00",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/02-robotics/02-day-2/index.html"
@@ -145,8 +145,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”\nChristmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance",
-    "modified": "2026-06-15T00:57:13-05:00",
+    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
+    "modified": "2026-06-15T01:43:53-05:00",
     "tags": [],
     "title": "Day 3",
     "uri": "/ks-leapes/02-robotics/03-day-3/index.html"

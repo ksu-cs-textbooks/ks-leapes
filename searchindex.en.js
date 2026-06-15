@@ -49,8 +49,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Robotics",
-    "content": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi Activity 3: Let’s MOVE! ⚙️ Motors and Wheels mBlock Motors Let’s go METRIC SYSTEM! 📏 Metric System Song again… Resources\nMath Songs by NUMBERROCK Already an mBot expert? Move on to Day 2 or Day 3.",
-    "description": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi",
+    "content": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi Activity 3: Let’s MOVE! ⚙️ Motors and Wheels mBlock Motors Android and Apple Apps iPhone App - Object Detection Let’s go METRIC SYSTEM! 📏 Metric System Song again… Resources\nMath Songs by NUMBERROCK Already an mBot expert? Move on to Day 2 or Day 3.",
+    "description": "Activity 0: Let’s BUILD! 🚧 If you have unbuilt mBots, follow the instructions included with the kit to build them now.\nAssembly Instructions if needed Activity 1: Let’s ROLL! 🤖 Are you new to mBot or need a refresher? Start here! Testing mBot Activity 2: Let’s CODE! 💻 Programming the CyberPi Activity 3: Let’s MOVE! ⚙️ Motors and Wheels",
     "tags": [],
     "title": "Day 1",
     "uri": "/ks-leapes/02-robotics/01-day-1/index.html"
@@ -129,7 +129,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Robotics",
-    "content": "Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow Activity 3: Line Follow Activity 4: Line Following with LEDs Line Following and change LEDs Resources iPhone App - Object Detection",
+    "content": "Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow Activity 3: Line Follow Activity 4: Line Following with LEDs Line Following and change LEDs",
     "description": "Activity 1: Obstacle Avoidance Obstacle Avoidance Activity 2: Object Follow Object Follow",
     "tags": [],
     "title": "Day 2",
@@ -145,8 +145,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Robotics",
-    "content": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”\nChristmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
-    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation”\nChristmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance",
+    "content": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
+    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
     "tags": [],
     "title": "Day 3",
     "uri": "/ks-leapes/02-robotics/03-day-3/index.html"
