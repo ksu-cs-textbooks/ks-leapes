@@ -65,8 +65,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Computer Science Extra",
-    "content": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File",
-    "description": "Activity 1 - PacMan PacMan Video Resources\nPacMan Starter File",
+    "content": "Activity 1 - PacMan Part I PacMan Video Resources\nPacMan Starter File Activity 2 - PacMan Part II PacMan Video Resources\nPacMan Starter File",
+    "description": "Activity 1 - PacMan Part I PacMan Video Resources\nPacMan Starter File Activity 2 - PacMan Part II PacMan Video Resources\nPacMan Starter File",
     "tags": [],
     "title": "Day 2",
     "uri": "/ks-leapes/03-computer-science-extras/02-day-2/index.html"
