@@ -177,8 +177,16 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
+    "description": "Teleop Control Create a teleoperation control panel (remote control) for the mBot PC Version Android/ iOS Resources ABB Industrial Robot Arm Using Block Coding",
+    "modified": "2026-06-17T22:14:59-05:00",
+    "tags": [],
+    "title": "Remote Control",
+    "uri": "/ks-leapes/02-robotics/04-rc/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
     "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
-    "modified": "2026-06-15T01:57:18-05:00",
+    "modified": "2026-06-17T22:14:59-05:00",
     "tags": [],
     "title": "Robot Arm Activities",
     "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
