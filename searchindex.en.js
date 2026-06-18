@@ -145,8 +145,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Robotics",
-    "content": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
-    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
+    "content": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator",
+    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator",
     "tags": [],
     "title": "Day 3",
     "uri": "/ks-leapes/02-robotics/03-day-3/index.html"
@@ -177,27 +177,11 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Robotics",
-    "content": "Teleop Control Create a teleoperation control panel (remote control) for the mBot PC Version Android/ iOS Resources ABB Industrial Robot Arm Using Block Coding",
-    "description": "Teleop Control Create a teleoperation control panel (remote control) for the mBot PC Version Android/ iOS Resources ABB Industrial Robot Arm Using Block Coding",
+    "content": "Teleop Control Create a teleoperation control panel (remote control) for the mBot Android/ iOS PC Version Resources ABB Industrial Robot Arm Using Block Coding",
+    "description": "Teleop Control Create a teleoperation control panel (remote control) for the mBot Android/ iOS PC Version Resources ABB Industrial Robot Arm Using Block Coding",
     "tags": [],
     "title": "Remote Control",
     "uri": "/ks-leapes/02-robotics/04-rc/index.html"
-  },
-  {
-    "breadcrumb": "Robotics",
-    "content": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
-    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
-    "tags": [],
-    "title": "Robot Arm Activities",
-    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
-  },
-  {
-    "breadcrumb": "Robotics",
-    "content": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
-    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
-    "tags": [],
-    "title": "AI Advanced Lessons",
-    "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"
   },
   {
     "breadcrumb": "Computer Science",
@@ -208,12 +192,28 @@ var relearn_searchindex = [
     "uri": "/ks-leapes/01-computer-science/05-cs-extras/index.html"
   },
   {
+    "breadcrumb": "Robotics",
+    "content": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
+    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
+    "tags": [],
+    "title": "Robot Arm Activities",
+    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
+  },
+  {
     "breadcrumb": "Data Science",
     "content": "A STEM outreach activity using data science and machine learning techniques to analyze weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Teacher Introduction Video Starter Code The starter code can be found on GitHub. This repository is a template that can be easily forked by students or teachers to their own accounts.\nThe files can also be downloaded as ZIP file from the 1.0 Release and then redistributed through a course LMS or other process.\nTeacher Setup For students to follow along with this activity, they need access to system with Python and Jupyter Notebooks installed and available. There are many possible configurations that work, which are discussed below. If you have questions or need assistance setting things up, reach out to altcs AT ksu DOT edu and we’ll do our best to help!\nSimple - Local Installation The simplest setup is to have Python and Visual Studio Code installed on the system locally. Then, within Visual Studio Code, install the Python and Jupyter extensions. If the folder containing the starter files are opened in Visual Studio Code, you should be prompted to install those extensions if they aren’t already installed.\nDevcontainers and GitHub Codespaces The starter files also contain a .devcontainer folder that can be used to create a local [Development Container] using Docker, or a cloud development environment using GitHub Codespaces. That environment will contain the Python installation and handle installing the required extensions and libraries. Students can create their own copies of the starter code using the template repository on GitHub.\nCodio The Codio platform supports Jupyter Notebooks and could be used to deliver this lesson. Teachers will need to configure the lesson in Codio for students to use.\nGoogle Colab Google Colab is another possible option for students to engage with this lesson online. Students can start by clicking on the link below to open the starter file in Google Colab (the same link can be found on GitHub).\nIt requires a bit of additional configuration:\nRun the code block at the top of the file to clone the repository and install the required libraries. Remember that all Python commands must be run within code blocks and not the terminal. See the example included in the starter notebook. Model Solution The starter repository contains a solution folder that contains the intended model solution at the end of the activity. Since this activity is meant to be exploratory in nature, it can be helpful to give students an option to either write the code themselves or follow along with a model solution and make changes to the existing code. Teachers may choose to remove that folder if they redistribute these materials.",
     "description": "A STEM outreach activity using data science and machine learning techniques to analyze weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Teacher Introduction Video Starter Code The starter code can be found on GitHub. This repository is a template that can be easily forked by students or teachers to their own accounts.",
     "tags": [],
     "title": "Teacher Guide",
     "uri": "/ks-leapes/04-data-science/05-teacher-guide/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
+    "content": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
+    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
+    "tags": [],
+    "title": "AI Advanced Lessons",
+    "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"
   },
   {
     "breadcrumb": "",

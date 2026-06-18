@@ -3,7 +3,7 @@
   <channel>
     <title>Remote Control :: KS LEAPES</title>
     <link>https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/04-rc/index.html</link>
-    <description>Teleop Control Create a teleoperation control panel (remote control) for the mBot PC Version Android/ iOS Resources ABB Industrial Robot Arm Using Block Coding</description>
+    <description>Teleop Control Create a teleoperation control panel (remote control) for the mBot Android/ iOS PC Version Resources ABB Industrial Robot Arm Using Block Coding</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://textbooks.cs.ksu.edu/ks-leapes/02-robotics/04-rc/index.xml" rel="self" type="application/rss+xml" />

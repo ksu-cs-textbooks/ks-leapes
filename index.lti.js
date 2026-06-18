@@ -145,8 +145,8 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator --\u003e",
-    "modified": "2026-06-15T01:43:53-05:00",
+    "description": "Virtual Aviation Hangar Tour Visit https://kstate.designori.net/ and select “KSU Salina Aviation” Christmas in June??? Want to see our Robotics Wonderland? Activity 1: Measure Distance Measure distance Activity 2: Move Distance Move distance Activity 3: Did you hear that? Sound Reaction Activity 4: Angle Indicator Build this Angle Indicator",
+    "modified": "2026-06-17T22:20:23-05:00",
     "tags": [],
     "title": "Day 3",
     "uri": "/ks-leapes/02-robotics/03-day-3/index.html"
@@ -177,27 +177,11 @@ var relearn_lti_index = [
   },
   {
     "breadcrumb": "Robotics",
-    "description": "Teleop Control Create a teleoperation control panel (remote control) for the mBot PC Version Android/ iOS Resources ABB Industrial Robot Arm Using Block Coding",
-    "modified": "2026-06-17T22:14:59-05:00",
+    "description": "Teleop Control Create a teleoperation control panel (remote control) for the mBot Android/ iOS PC Version Resources ABB Industrial Robot Arm Using Block Coding",
+    "modified": "2026-06-17T22:20:23-05:00",
     "tags": [],
     "title": "Remote Control",
     "uri": "/ks-leapes/02-robotics/04-rc/index.html"
-  },
-  {
-    "breadcrumb": "Robotics",
-    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
-    "modified": "2026-06-17T22:14:59-05:00",
-    "tags": [],
-    "title": "Robot Arm Activities",
-    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
-  },
-  {
-    "breadcrumb": "Robotics",
-    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
-    "modified": "2026-06-15T01:21:32-05:00",
-    "tags": [],
-    "title": "AI Advanced Lessons",
-    "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"
   },
   {
     "breadcrumb": "Computer Science",
@@ -208,12 +192,28 @@ var relearn_lti_index = [
     "uri": "/ks-leapes/01-computer-science/05-cs-extras/index.html"
   },
   {
+    "breadcrumb": "Robotics",
+    "description": "Activity 1: Robot Arm (if you have it) Robot Arm Programming (if you have it) Activity 2: Color Line Follow Color Line Follow - uses robot arm but you can skip that part",
+    "modified": "2026-06-17T22:20:23-05:00",
+    "tags": [],
+    "title": "Robot Arm Activities",
+    "uri": "/ks-leapes/02-robotics/04-day-4/index.html"
+  },
+  {
     "breadcrumb": "Data Science",
     "description": "A STEM outreach activity using data science and machine learning techniques to analyze weather data.\nTime: 60 - 120 minutes+ Age: Middle School and Up Teacher Introduction Video Starter Code The starter code can be found on GitHub. This repository is a template that can be easily forked by students or teachers to their own accounts.",
     "modified": "2026-06-07T17:30:31-05:00",
     "tags": [],
     "title": "Teacher Guide",
     "uri": "/ks-leapes/04-data-science/05-teacher-guide/index.html"
+  },
+  {
+    "breadcrumb": "Robotics",
+    "description": "Resources mBlock Machine Learning Activity 1: Create the Project How to Create an Image Model Activity 2: Train the Model How does Machine Learning work? Activity 3: Robot Dance How to Dance with Your Robot",
+    "modified": "2026-06-17T22:20:23-05:00",
+    "tags": [],
+    "title": "AI Advanced Lessons",
+    "uri": "/ks-leapes/02-robotics/05-ai-lessons/index.html"
   },
   {
     "breadcrumb": "",
