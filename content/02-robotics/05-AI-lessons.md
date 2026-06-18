@@ -1,7 +1,7 @@
 ---
 title: "AI Advanced Lessons"
-pre: "5. "
-weight: 50
+pre: "6. "
+weight: 60
 ---
 
 ## Resources
